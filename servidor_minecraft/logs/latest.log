@@ -1002,3 +1002,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 18:49:14.419] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Chain Death]
 [26Feb2025 18:49:14.419] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Spider
 [26Feb2025 18:49:14.422] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 18:53:02.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f0e59fd[id=<null>,name=J4so_0,properties={},legacy=false] (/127.189.141.112:39643) lost connection: Disconnected
+[26Feb2025 18:53:09.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: You logged in from another location
+[26Feb2025 18:53:09.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[26Feb2025 18:53:09.925] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66ce4ea5
+[26Feb2025 18:53:09.992] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Feb2025 18:53:10.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.189.141.112:60869] logged in with entity id 18785 at (-81.66788186894986, 20.0, -579.7536132709497)
+[26Feb2025 18:53:10.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[26Feb2025 18:53:10.068] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[26Feb2025 18:58:51.019] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Corpse Fly
+[26Feb2025 18:58:51.026] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
