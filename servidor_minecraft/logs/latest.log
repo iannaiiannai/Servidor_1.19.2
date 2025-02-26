@@ -951,3 +951,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 22:51:51.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nosmak has reached the goal [Flowers of the Savanna]
 [26Feb2025 22:52:30.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nosmak lost connection: Disconnected
 [26Feb2025 22:52:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nosmak left the game
+[26Feb2025 22:58:14.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Disconnected
+[26Feb2025 22:58:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game
+[26Feb2025 22:58:51.668] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@49c936cd
+[26Feb2025 22:58:51.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coyote_ian[/127.111.114.54:43115] logged in with entity id 15186 at (-127.67564600682523, 64.0, 934.5336249771052)
+[26Feb2025 22:58:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
+[26Feb2025 22:58:51.739] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
+[26Feb2025 23:01:38.501] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Dread Hound
+[26Feb2025 23:01:38.509] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 23:03:38.294] [Worker-Main-15/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[26Feb2025 23:04:01.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Disconnected
+[26Feb2025 23:04:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game

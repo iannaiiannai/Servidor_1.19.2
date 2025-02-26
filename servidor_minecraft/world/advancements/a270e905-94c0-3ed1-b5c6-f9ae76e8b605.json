@@ -5,15 +5,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_furnace": "2025-02-26 22:08:14 +0000"
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-26 22:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-26 22:08:14 +0000"
     },
     "done": true
   },
@@ -89,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-26 22:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
     },
     "done": true
   },
@@ -122,6 +140,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-02-26 22:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
@@ -197,6 +221,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/spider": {
+    "criteria": {
+      "has_string": "2025-02-26 22:59:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-26 22:46:38 +0000"
@@ -245,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-02-26 22:12:56 +0000"
@@ -281,15 +317,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-02-26 22:36:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-26 22:36:31 +0000"
     },
     "done": true
   },
@@ -305,15 +341,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/emerald": {
-    "criteria": {
-      "has_emerald": "2025-02-26 22:36:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-26 22:36:31 +0000"
     },
     "done": true
   },
@@ -323,6 +359,7 @@
       "cooked_mutton": "2025-02-26 22:31:11 +0000",
       "beef": "2025-02-26 22:01:34 +0000",
       "apple": "2025-02-26 22:44:27 +0000",
+      "mutton": "2025-02-26 22:55:04 +0000",
       "bread": "2025-02-26 22:45:18 +0000",
       "rotten_flesh": "2025-02-26 21:43:56 +0000",
       "cooked_chicken": "2025-02-26 22:12:48 +0000"
@@ -386,6 +423,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
     },
     "done": true
   },
@@ -455,15 +498,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-02-26 22:45:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-26 22:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-26 22:45:03 +0000"
     },
     "done": true
   },
@@ -494,6 +537,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
@@ -582,6 +631,7 @@
       "marsh": "2025-02-26 22:00:39 +0000",
       "mediterranean_forest": "2025-02-26 22:09:44 +0000",
       "spider_nest": "2025-02-26 22:05:36 +0000",
+      "dune_beach": "2025-02-26 22:58:57 +0000",
       "lavender_field": "2025-02-26 22:00:53 +0000"
     },
     "done": false
@@ -658,6 +708,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-26 22:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-02-26 21:21:59 +0000"
@@ -667,6 +723,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-26 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
     },
     "done": true
   },
@@ -778,9 +840,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-02-26 22:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-26 21:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
@@ -801,6 +875,7 @@
       "minecraft:pillager": "2025-02-26 22:43:15 +0000",
       "minecraft:skeleton": "2025-02-26 21:46:42 +0000",
       "minecraft:vindicator": "2025-02-26 22:46:27 +0000",
+      "minecraft:spider": "2025-02-26 22:59:35 +0000",
       "minecraft:zombie": "2025-02-26 22:35:30 +0000"
     },
     "done": false
@@ -823,9 +898,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "has_bed": "2025-02-26 22:11:53 +0000"
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
     },
     "done": true
   },
@@ -835,21 +910,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-02-26 22:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-02-26 21:30:56 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/diamond": {
-    "criteria": {
-      "has_diamond": "2025-02-26 22:46:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-26 22:13:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/diamond": {
+    "criteria": {
+      "has_diamond": "2025-02-26 22:46:38 +0000"
     },
     "done": true
   },
@@ -943,6 +1024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-02-26 21:19:39 +0000"
@@ -979,15 +1066,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/horse": {
+    "criteria": {
+      "has_leather": "2025-02-26 22:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-26 22:03:16 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/horse": {
+  "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
-      "has_leather": "2025-02-26 22:01:20 +0000"
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
@@ -1000,6 +1093,12 @@
   "travelersbackpack:recipes/travelersbackpack/hay": {
     "criteria": {
       "has_wheat": "2025-02-26 22:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
@@ -1045,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-02-26 22:03:16 +0000"
@@ -1057,9 +1162,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-26 22:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-26 22:54:44 +0000"
     },
     "done": true
   },
@@ -1165,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-26 22:54:43 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-02-26 21:30:55 +0000"
@@ -1231,9 +1354,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 22:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-26 21:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-26 22:59:36 +0000"
     },
     "done": true
   },
@@ -1478,8 +1613,10 @@
       "minecraft:lukewarm_ocean": "2025-02-26 21:21:52 +0000",
       "minecraft:river": "2025-02-26 21:20:14 +0000",
       "minecraft:dripstone_caves": "2025-02-26 22:05:02 +0000",
+      "minecraft:windswept_savanna": "2025-02-26 23:01:09 +0000",
       "minecraft:flower_forest": "2025-02-26 22:36:52 +0000",
-      "minecraft:savanna": "2025-02-26 21:20:16 +0000"
+      "minecraft:savanna": "2025-02-26 21:20:16 +0000",
+      "minecraft:plains": "2025-02-26 22:58:01 +0000"
     },
     "done": false
   },
@@ -1525,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-26 22:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-26 21:25:32 +0000"
@@ -1543,6 +1686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-26 22:59:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-26 21:34:01 +0000"
@@ -1555,15 +1704,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-02-26 22:14:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-26 22:14:57 +0000"
     },
     "done": true
   },
@@ -1609,15 +1758,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-02-26 22:46:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-26 22:46:38 +0000"
     },
     "done": true
   },
@@ -1663,15 +1812,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-02-26 22:38:24 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-02-26 22:03:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 22:38:24 +0000"
     },
     "done": true
   },
