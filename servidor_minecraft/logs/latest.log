@@ -1068,3 +1068,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:38:55.221] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
 [26Feb2025 19:40:02.668] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Corpse Fish
 [26Feb2025 19:40:02.678] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:41:13.175] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Nightmare Stalker
+[26Feb2025 19:41:13.217] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 19:44:05.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -160 -718
+[26Feb2025 19:44:08.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> aldea
+[26Feb2025 19:44:25.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[26Feb2025 19:44:37.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[26Feb2025 19:45:34.219] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/34527, l='ServerLevel[world]', x=-160.62, y=81.00, z=-741.05] died, message: 'Unemployed suffocated in a wall'
+[26Feb2025 19:46:01.301] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31d9d2b1
+[26Feb2025 19:46:01.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristein[/127.239.77.116:53809] logged in with entity id 35604 at (-1.5380829015541886, 39.0, -304.66367927750633)
+[26Feb2025 19:46:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein joined the game
+[26Feb2025 19:46:01.382] [Server thread/INFO] [Jade/]: Syncing config to Cristein (722e000b-03f6-3604-91db-ed8522486df8)
+[26Feb2025 19:46:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Tools of the Trade]
+[26Feb2025 19:47:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -160 -718
+[26Feb2025 19:49:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Isn't It Iron Pick]
