@@ -1022,3 +1022,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
 [26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [26Feb2025 19:10:10.369] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[26Feb2025 19:11:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
+[26Feb2025 19:11:25.741] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:13:07.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Feb2025 19:13:07.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: x<--[HERE]
+[26Feb2025 19:14:54.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[26Feb2025 19:14:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to J4so_0: bo metete al discord
+[26Feb2025 19:15:04.120] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e5f5829
+[26Feb2025 19:15:04.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coyote_ian[/127.111.114.54:51045] logged in with entity id 25515 at (9.5, 67.0, -15.5)
+[26Feb2025 19:15:04.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
+[26Feb2025 19:15:04.301] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
+[26Feb2025 19:15:57.769] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Diamond Termite
+[26Feb2025 19:15:57.773] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:16:40.071] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[26Feb2025 19:17:30.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Disconnected
+[26Feb2025 19:17:30.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game
+[26Feb2025 19:19:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was doomed to fall
+[26Feb2025 19:19:17.796] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:19:33.167] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ea13de5
+[26Feb2025 19:19:33.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coyote_ian[/127.111.114.54:34811] logged in with entity id 27962 at (23.55662078849818, 74.0, -140.64513969705735)
+[26Feb2025 19:19:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
+[26Feb2025 19:19:33.216] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
+[26Feb2025 19:20:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Gravedigger]

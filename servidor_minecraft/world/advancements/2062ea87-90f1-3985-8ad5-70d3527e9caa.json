@@ -655,10 +655,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "bamboo_grove": "2025-02-26 19:11:46 +0000",
       "maple_woods": "2025-02-26 18:39:02 +0000",
       "spider_nest": "2025-02-26 18:12:30 +0000",
       "cherry_blossom_grove": "2025-02-26 18:06:06 +0000",
-      "grassland": "2025-02-26 17:44:45 +0000"
+      "grassland": "2025-02-26 17:44:45 +0000",
+      "glowing_grotto": "2025-02-26 19:11:49 +0000"
     },
     "done": false
   },
