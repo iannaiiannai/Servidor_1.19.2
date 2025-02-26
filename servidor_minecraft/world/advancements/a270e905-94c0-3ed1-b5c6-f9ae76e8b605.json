@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-26 22:36:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-02-26 22:12:56 +0000"
@@ -269,6 +275,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-26 22:38:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-26 22:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
@@ -278,6 +296,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-02-26 21:33:44 +0000",
+      "cooked_mutton": "2025-02-26 22:31:11 +0000",
       "beef": "2025-02-26 22:01:34 +0000",
       "rotten_flesh": "2025-02-26 21:43:56 +0000",
       "cooked_chicken": "2025-02-26 22:12:48 +0000"
@@ -711,7 +730,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-02-26 21:46:42 +0000"
+      "minecraft:skeleton": "2025-02-26 21:46:42 +0000",
+      "minecraft:zombie": "2025-02-26 22:35:30 +0000"
     },
     "done": false
   },
@@ -772,6 +792,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 22:38:19 +0000"
     },
     "done": true
   },
@@ -1322,6 +1348,7 @@
       "minecraft:lukewarm_ocean": "2025-02-26 21:21:52 +0000",
       "minecraft:river": "2025-02-26 21:20:14 +0000",
       "minecraft:dripstone_caves": "2025-02-26 22:05:02 +0000",
+      "minecraft:flower_forest": "2025-02-26 22:36:52 +0000",
       "minecraft:savanna": "2025-02-26 21:20:16 +0000"
     },
     "done": false
@@ -1497,6 +1524,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-26 21:19:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-26 22:38:24 +0000"
     },
     "done": true
   },
