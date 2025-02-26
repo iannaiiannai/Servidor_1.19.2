@@ -10716,3 +10716,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:25:52.868] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
 [26Feb2025 19:26:10.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 19:26:10.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:31:10.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 19:31:10.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:33:31.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Isn't It Iron Pick]
+[26Feb2025 19:35:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Hanging Tree]
+[26Feb2025 19:35:57.788] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=70, y=72, z=-308}) doesn't have enough leaves around top most log
+[26Feb2025 19:36:10.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 19:36:10.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:37:30.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
+[26Feb2025 19:37:30.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:61, y:61, z:-236, dim:minecraft:overworld]
+[26Feb2025 19:37:30.102] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:37:31.421] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 19:38:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Monster Hunter]
+[26Feb2025 19:38:52.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Sweet Dreams]
+[26Feb2025 19:38:55.217] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Corpse Fly
+[26Feb2025 19:38:55.219] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Coyote_ian was created at position [x:57, y:68, z:-213, dim:minecraft:overworld]
+[26Feb2025 19:38:55.220] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Your First Grave]
+[26Feb2025 19:38:55.221] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 19:38:58.006] [Server thread/DEBUG] [twilightforest/]: Player Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605) respawned and received items held in storage
+[26Feb2025 19:40:02.668] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Corpse Fish
+[26Feb2025 19:40:02.673] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-2, y:62, z:-239, dim:minecraft:overworld]
+[26Feb2025 19:40:02.678] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:40:07.045] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage

@@ -1057,3 +1057,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:24:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Acquire Hardware]
 [26Feb2025 19:25:51.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
 [26Feb2025 19:25:51.449] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:33:31.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Isn't It Iron Pick]
+[26Feb2025 19:35:04.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Hanging Tree]
+[26Feb2025 19:37:30.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
+[26Feb2025 19:37:30.102] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:38:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Monster Hunter]
+[26Feb2025 19:38:52.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Sweet Dreams]
+[26Feb2025 19:38:55.217] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Corpse Fly
+[26Feb2025 19:38:55.220] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Your First Grave]
+[26Feb2025 19:38:55.221] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 19:40:02.668] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Corpse Fish
+[26Feb2025 19:40:02.678] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
