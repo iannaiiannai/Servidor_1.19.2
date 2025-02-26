@@ -1082,3 +1082,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:46:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Tools of the Trade]
 [26Feb2025 19:47:08.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -160 -718
 [26Feb2025 19:49:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Isn't It Iron Pick]
+[26Feb2025 19:51:29.472] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein was slain by Siamese Skeleton
+[26Feb2025 19:51:29.475] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Your First Grave]
+[26Feb2025 19:51:29.480] [Server thread/INFO] [tombstone/]: The player Cristein has successfully been saved
+[26Feb2025 19:51:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Knowledge of Death]
+[26Feb2025 19:51:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has reached the goal [Here They Come]
+[26Feb2025 19:52:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Into Fire]
+[26Feb2025 19:54:10.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Stay dead]
+[26Feb2025 19:58:41.622] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was led to the grave by Priest
+[26Feb2025 19:58:41.625] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:59:20.772] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was led to the grave by Priest
+[26Feb2025 19:59:20.776] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:59:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Tools of the Trade]
+[26Feb2025 19:59:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has completed the challenge [Premium!]
+[26Feb2025 20:01:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Magery]

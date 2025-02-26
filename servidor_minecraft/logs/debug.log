@@ -10956,3 +10956,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:49:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Isn't It Iron Pick]
 [26Feb2025 19:51:11.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 19:51:11.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:51:29.472] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein was slain by Siamese Skeleton
+[26Feb2025 19:51:29.474] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Cristein was created at position [x:-25, y:28, z:-342, dim:minecraft:overworld]
+[26Feb2025 19:51:29.475] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Your First Grave]
+[26Feb2025 19:51:29.480] [Server thread/INFO] [tombstone/]: The player Cristein has successfully been saved
+[26Feb2025 19:51:31.716] [Server thread/DEBUG] [twilightforest/]: Player Cristein (722e000b-03f6-3604-91db-ed8522486df8) respawned and received items held in storage
+[26Feb2025 19:51:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Knowledge of Death]
+[26Feb2025 19:51:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has reached the goal [Here They Come]
+[26Feb2025 19:52:09.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Into Fire]
+[26Feb2025 19:53:41.398] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[26Feb2025 19:54:10.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Stay dead]
+[26Feb2025 19:56:11.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 19:56:11.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:58:41.622] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was led to the grave by Priest
+[26Feb2025 19:58:41.624] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-244, y:77, z:-710, dim:minecraft:overworld]
+[26Feb2025 19:58:41.625] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:58:43.050] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 19:59:20.772] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was led to the grave by Priest
+[26Feb2025 19:59:20.773] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-227, y:78, z:-718, dim:minecraft:overworld]
+[26Feb2025 19:59:20.776] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:59:22.146] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 19:59:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Tools of the Trade]
+[26Feb2025 19:59:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has completed the challenge [Premium!]
+[26Feb2025 20:01:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Magery]
+[26Feb2025 20:01:11.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 20:01:11.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
