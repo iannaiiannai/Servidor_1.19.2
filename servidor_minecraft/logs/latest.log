@@ -1012,3 +1012,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 18:53:10.068] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
 [26Feb2025 18:58:51.019] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Corpse Fly
 [26Feb2025 18:58:51.026] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:01:12.068] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Spider
+[26Feb2025 19:01:12.074] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:01:50.268] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Diamond Termite
+[26Feb2025 19:01:50.271] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:01:50.383] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Feb2025 19:01:50.383] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Feb2025 19:10:10.369] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult

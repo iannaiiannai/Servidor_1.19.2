@@ -10261,3 +10261,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 18:58:51.021] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-86, y:16, z:-588, dim:minecraft:overworld]
 [26Feb2025 18:58:51.026] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
 [26Feb2025 18:58:52.458] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 19:01:10.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 19:01:10.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:01:12.068] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Spider
+[26Feb2025 19:01:12.070] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-171, y:2, z:-521, dim:minecraft:overworld]
+[26Feb2025 19:01:12.074] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:01:13.395] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 19:01:50.268] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Diamond Termite
+[26Feb2025 19:01:50.270] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-160, y:5, z:-499, dim:minecraft:overworld]
+[26Feb2025 19:01:50.271] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:01:50.383] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Feb2025 19:01:50.383] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[26Feb2025 19:01:50.384] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Feb2025 19:01:51.819] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 19:06:10.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 19:06:11.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 19:10:10.369] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
