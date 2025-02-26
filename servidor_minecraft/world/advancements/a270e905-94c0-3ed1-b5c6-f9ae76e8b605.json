@@ -1,9 +1,21 @@
 {
-  "minecraft:adventure/adventuring_time": {
+  "dungeons_arise:wda_root": {
     "criteria": {
-      "minecraft:forest": "2025-02-25 23:52:43 +0000"
+      "WDA": "2025-02-26 06:02:56 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-26 06:02:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-02-26 06:02:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
