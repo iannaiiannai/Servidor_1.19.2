@@ -899,3 +899,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 17:47:36.834] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
 [26Feb2025 17:47:36.836] [Worker-Main-6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [26Feb2025 17:48:17.929] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[26Feb2025 17:51:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Stone Age]
+[26Feb2025 17:51:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Getting an Upgrade]
+[26Feb2025 17:51:33.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/tree/TreePartType
+[26Feb2025 17:53:00.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Gravedigger]
+[26Feb2025 17:53:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Well prepared]
+[26Feb2025 17:53:28.104] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[26Feb2025 17:55:48.953] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[26Feb2025 18:00:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Monster Hunter]
