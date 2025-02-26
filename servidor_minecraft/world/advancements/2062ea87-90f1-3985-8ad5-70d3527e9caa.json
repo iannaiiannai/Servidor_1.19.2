@@ -341,6 +341,7 @@
       "sweet_berries": "2025-02-26 18:30:55 +0000",
       "porkchop": "2025-02-26 17:47:03 +0000",
       "apple": "2025-02-26 18:00:08 +0000",
+      "rotten_flesh": "2025-02-26 18:36:48 +0000",
       "glow_berries": "2025-02-26 18:21:29 +0000",
       "cooked_chicken": "2025-02-26 18:11:53 +0000"
     },
@@ -582,6 +583,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "maple_woods": "2025-02-26 18:39:02 +0000",
       "spider_nest": "2025-02-26 18:12:30 +0000",
       "cherry_blossom_grove": "2025-02-26 18:06:06 +0000",
       "grassland": "2025-02-26 17:44:45 +0000"

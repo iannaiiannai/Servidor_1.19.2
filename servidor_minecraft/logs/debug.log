@@ -9905,3 +9905,66 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 18:39:37.868] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was shot by Skeleton
 [26Feb2025 18:39:37.870] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
 [26Feb2025 18:39:39.312] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 18:40:51.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[26Feb2025 18:41:10.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 18:41:10.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 18:42:20.167] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was shot by Skeleton
+[26Feb2025 18:42:20.169] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 18:42:21.689] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 18:45:59.327] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_5
+[26Feb2025 18:45:59.359] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[26Feb2025 18:45:59.379] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_2
+[26Feb2025 18:45:59.380] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_2
+[26Feb2025 18:45:59.396] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_1
+[26Feb2025 18:45:59.396] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_spawn_altar_3
+[26Feb2025 18:45:59.397] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_spawn_altar_1
+[26Feb2025 18:45:59.412] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_6
+[26Feb2025 18:45:59.441] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_7
+[26Feb2025 18:45:59.450] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_3
+[26Feb2025 18:46:00.276] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[26Feb2025 18:46:00.277] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[26Feb2025 18:46:00.278] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[26Feb2025 18:46:00.333] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[26Feb2025 18:46:00.334] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[26Feb2025 18:46:00.561] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[26Feb2025 18:46:00.561] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[26Feb2025 18:46:00.562] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[26Feb2025 18:46:00.937] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-1227}
+[26Feb2025 18:46:01.188] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[26Feb2025 18:46:11.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 18:46:11.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 18:46:17.196] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_13
+[26Feb2025 18:46:17.430] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=26, z=-1221}
+[26Feb2025 18:46:17.441] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[26Feb2025 18:46:17.594] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=25, z=-1220}
+[26Feb2025 18:46:17.595] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=25, z=-1219}
+[26Feb2025 18:46:17.598] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[26Feb2025 18:46:17.703] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[26Feb2025 18:46:31.312] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
+[26Feb2025 18:47:14.149] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[26Feb2025 18:47:14.156] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1230}
+[26Feb2025 18:47:14.157] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1230}
+[26Feb2025 18:47:14.157] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1226}
+[26Feb2025 18:47:14.556] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[26Feb2025 18:47:43.031] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[26Feb2025 18:47:43.575] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=25, z=-1227}
+[26Feb2025 18:47:43.721] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[26Feb2025 18:47:43.782] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[26Feb2025 18:47:43.962] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=25, z=-1225}
+[26Feb2025 18:47:43.963] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=27, z=-1221}
+[26Feb2025 18:47:45.389] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[26Feb2025 18:47:45.402] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=26, z=-1220}
+[26Feb2025 18:47:45.402] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=25, z=-1221}
+[26Feb2025 18:48:42.092] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[26Feb2025 18:48:43.510] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[26Feb2025 18:48:43.900] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[26Feb2025 18:48:44.071] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Spider
+[26Feb2025 18:48:44.077] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-57, y:15, z:-606, dim:minecraft:overworld]
+[26Feb2025 18:48:44.084] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 18:48:44.534] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[26Feb2025 18:48:45.368] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[26Feb2025 18:49:14.419] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Chain Death]
+[26Feb2025 18:49:14.419] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Spider
+[26Feb2025 18:49:14.420] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-11, y:12, z:-596, dim:minecraft:overworld]
+[26Feb2025 18:49:14.422] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 18:49:15.769] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
