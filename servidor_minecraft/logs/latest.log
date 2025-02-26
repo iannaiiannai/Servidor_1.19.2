@@ -907,3 +907,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 17:53:28.104] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
 [26Feb2025 17:55:48.953] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [26Feb2025 18:00:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Monster Hunter]
+[26Feb2025 18:00:21.292] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[26Feb2025 18:00:21.294] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[26Feb2025 18:00:21.296] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Corpse Fish
+[26Feb2025 18:00:21.307] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[26Feb2025 18:00:21.331] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[26Feb2025 18:00:21.351] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Your First Grave]
+[26Feb2025 18:00:21.362] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 18:00:25.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Here They Come]
+[26Feb2025 18:01:04.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[26Feb2025 18:05:54.988] [Worker-Main-12/WARN] [ModernFix/]: The namespace graveyard contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[26Feb2025 18:05:54.988] [Worker-Main-12/INFO] [ModernFix/]: Instantiating Mojang DFU
+[26Feb2025 18:05:55.495] [Worker-Main-12/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[26Feb2025 18:05:59.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Bloodthirsty]
+[26Feb2025 18:06:45.262] [Worker-Main-14/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[26Feb2025 18:08:21.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Alex's Mobs]
