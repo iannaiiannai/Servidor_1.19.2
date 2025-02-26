@@ -934,3 +934,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 22:42:40.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristein lost connection: Disconnected
 [26Feb2025 22:42:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein left the game
 [26Feb2025 22:43:15.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Ambush]
+[26Feb2025 22:45:50.900] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Vindicator
+[26Feb2025 22:45:50.905] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 22:46:34.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[26Feb2025 22:46:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Diamonds!]
+[26Feb2025 22:50:19.950] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was eviscerated by Archevoker's vexes
+[26Feb2025 22:50:19.957] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 22:50:21.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [The Most Useful Key]
+[26Feb2025 22:50:26.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [A Fast Comeback]
+[26Feb2025 22:50:28.102] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1aa924f9
+[26Feb2025 22:50:28.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nosmak[/127.233.160.56:58605] logged in with entity id 11643 at (116.5, 65.0, 166.5)
+[26Feb2025 22:50:28.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nosmak joined the game
+[26Feb2025 22:50:28.250] [Server thread/INFO] [Jade/]: Syncing config to Nosmak (41a6e700-bce7-37c1-8eb7-f81f7c0104ec)
+[26Feb2025 22:51:36.150] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was eviscerated by Archevoker's vexes
+[26Feb2025 22:51:36.158] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 22:51:51.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nosmak has reached the goal [Flowers of the Savanna]
+[26Feb2025 22:52:30.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nosmak lost connection: Disconnected
+[26Feb2025 22:52:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nosmak left the game
