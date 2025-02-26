@@ -10981,3 +10981,72 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 20:01:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Magery]
 [26Feb2025 20:01:11.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Feb2025 20:01:11.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 20:01:39.472] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein was slain by Crocodile
+[26Feb2025 20:01:39.473] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Cristein was created at position [x:124, y:65, z:-341, dim:minecraft:overworld]
+[26Feb2025 20:01:39.477] [Server thread/INFO] [tombstone/]: The player Cristein has successfully been saved
+[26Feb2025 20:01:41.152] [Server thread/DEBUG] [twilightforest/]: Player Cristein (722e000b-03f6-3604-91db-ed8522486df8) respawned and received items held in storage
+[26Feb2025 20:01:45.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[26Feb2025 20:02:37.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[26Feb2025 20:04:40.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [d65a29a4-3e70-47cb-8ff3-45376ffa7fab]
+[26Feb2025 20:04:42.447] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (484 | 74 | -492).
+[26Feb2025 20:04:42.447] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[26Feb2025 20:04:42.448] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 5(0) Rooms
+[26Feb2025 20:04:42.448] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[26Feb2025 20:04:42.448] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(1) Nodes and 4(0) Rooms
+[26Feb2025 20:04:42.448] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[26Feb2025 20:04:42.448] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(2) Nodes and 6(0) Rooms
+[26Feb2025 20:04:42.448] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[26Feb2025 20:04:42.449] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 12(0) Nodes and 6(0) Rooms
+[26Feb2025 20:04:42.449] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[26Feb2025 20:04:42.449] [Worker-Main-13/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 5(0) Rooms
+[26Feb2025 20:04:48.047] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [7b29b00d-8f10-446f-b8d7-b5cef2d405ff]
+[26Feb2025 20:04:52.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [7b29b00d-8f10-446f-b8d7-b5cef2d405ff]
+[26Feb2025 20:04:57.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [7b29b00d-8f10-446f-b8d7-b5cef2d405ff]
+[26Feb2025 20:05:08.510] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [7b29b00d-8f10-446f-b8d7-b5cef2d405ff]
+[26Feb2025 20:06:10.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 20:06:11.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 20:06:59.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[26Feb2025 20:06:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[26Feb2025 20:07:16.492] [Worker-Main-138/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dragon_fossil_2
+[26Feb2025 20:07:16.500] [Worker-Main-138/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dragon_fossil_1
+[26Feb2025 20:07:22.004] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-588 | 45 | -1356).
+[26Feb2025 20:07:22.004] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[26Feb2025 20:07:22.004] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[26Feb2025 20:07:22.004] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[26Feb2025 20:07:22.004] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[26Feb2025 20:07:22.004] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[26Feb2025 20:07:22.005] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 5(0) Rooms
+[26Feb2025 20:07:22.005] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[26Feb2025 20:07:22.005] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 5(0) Rooms
+[26Feb2025 20:07:22.005] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[26Feb2025 20:07:22.005] [Worker-Main-138/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 12(0) Nodes and 4(0) Rooms
+[26Feb2025 20:07:31.680] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[26Feb2025 20:07:35.160] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_03
+[26Feb2025 20:07:35.233] [Worker-Main-138/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior216
+[26Feb2025 20:08:04.280] [Worker-Main-138/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[26Feb2025 20:08:06.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein has made the advancement [Pic-A-Nic Basket?]
+[26Feb2025 20:08:08.075] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein was slain by Grizzly Bear
+[26Feb2025 20:08:08.080] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Cristein was created at position [x:3, y:70, z:-413, dim:minecraft:overworld]
+[26Feb2025 20:08:08.085] [Server thread/INFO] [tombstone/]: The player Cristein has successfully been saved
+[26Feb2025 20:08:09.267] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[26Feb2025 20:08:09.295] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[26Feb2025 20:08:09.319] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 722e000b-03f6-3604-91db-ed8522486df8
+[26Feb2025 20:08:09.327] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: a270e905-94c0-3ed1-b5c6-f9ae76e8b605
+[26Feb2025 20:08:09.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Feb2025 20:08:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Feb2025 20:08:09.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Server closed
+[26Feb2025 20:08:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game
+[26Feb2025 20:08:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Feb2025 20:08:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Feb2025 20:08:19.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[26Feb2025 20:08:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Feb2025 20:08:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Feb2025 20:08:19.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 20:08:19.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 20:08:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Feb2025 20:08:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[26Feb2025 20:08:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Feb2025 20:08:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Feb2025 20:08:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Feb2025 20:08:19.846] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[26Feb2025 20:08:19.846] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
