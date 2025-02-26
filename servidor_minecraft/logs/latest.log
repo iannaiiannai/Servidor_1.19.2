@@ -1044,3 +1044,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 19:19:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
 [26Feb2025 19:19:33.216] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
 [26Feb2025 19:20:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Gravedigger]
+[26Feb2025 19:21:38.219] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Nightmare Stalker
+[26Feb2025 19:21:38.224] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[26Feb2025 19:21:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [Here They Come]
+[26Feb2025 19:22:06.818] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Zombie
+[26Feb2025 19:22:06.825] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[26Feb2025 19:22:06.845] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Feb2025 19:22:06.845] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[26Feb2025 19:22:06.845] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[26Feb2025 19:22:06.845] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[26Feb2025 19:22:06.845] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Feb2025 19:24:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Acquire Hardware]
+[26Feb2025 19:25:51.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
+[26Feb2025 19:25:51.449] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
