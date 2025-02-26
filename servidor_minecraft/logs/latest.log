@@ -910,3 +910,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Feb2025 22:11:55.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [26Feb2025 22:12:56.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Acquire Hardware]
 [26Feb2025 22:13:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Isn't It Iron Pick]
+[26Feb2025 22:33:08.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c847853
+[26Feb2025 22:33:08.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cristein[/127.239.77.116:48481] logged in with entity id 6747 at (114.5, 64.0, 172.5)
+[26Feb2025 22:33:08.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein joined the game
+[26Feb2025 22:33:08.966] [Server thread/INFO] [Jade/]: Syncing config to Cristein (722e000b-03f6-3604-91db-ed8522486df8)
