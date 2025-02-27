@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-27 01:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-26 22:36:02 +0000"
@@ -32,6 +38,18 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-02-26 22:35:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/horse": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-27 01:30:11 +0000"
     },
     "done": true
   },
@@ -65,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-26 22:35:40 +0000"
@@ -74,6 +104,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-26 22:36:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pig": {
+    "criteria": {
+      "has_porkchop": "2025-02-27 01:25:00 +0000"
     },
     "done": true
   },
@@ -173,6 +209,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-26 22:39:59 +0000"
@@ -197,6 +239,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-27 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding_inflicted": {
     "criteria": {
       "bleeding_applied": "2025-02-27 01:13:46 +0000"
@@ -206,6 +260,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-02-26 22:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-27 01:30:31 +0000"
     },
     "done": true
   },
@@ -248,6 +308,30 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-02-27 01:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-27 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-27 01:30:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-02-27 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
     },
     "done": true
   },
@@ -305,6 +389,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-27 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-26 22:36:33 +0000"
@@ -335,15 +437,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-27 01:30:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-26 22:39:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-02-27 01:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-27 01:25:00 +0000"
     },
     "done": true
   },
@@ -365,15 +485,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-27 01:15:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-27 01:30:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-02-26 22:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
     },
     "done": true
   },
@@ -407,6 +557,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-02-27 01:14:53 +0000"
@@ -416,7 +578,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-26 22:36:30 +0000",
-      "scrubland": "2025-02-26 22:34:41 +0000"
+      "shrubland": "2025-02-27 01:25:10 +0000",
+      "scrubland": "2025-02-26 22:34:41 +0000",
+      "prairie": "2025-02-27 01:26:31 +0000"
     },
     "done": false
   },
@@ -450,18 +614,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-02-27 01:30:34 +0000",
       "minecraft:beach": "2025-02-26 22:33:09 +0000",
       "minecraft:lukewarm_ocean": "2025-02-26 22:39:59 +0000",
+      "minecraft:river": "2025-02-27 01:21:45 +0000",
       "minecraft:forest": "2025-02-26 22:36:06 +0000",
-      "minecraft:savanna": "2025-02-26 22:33:30 +0000"
+      "minecraft:windswept_savanna": "2025-02-27 01:23:40 +0000",
+      "minecraft:savanna": "2025-02-26 22:33:30 +0000",
+      "minecraft:plains": "2025-02-27 01:24:46 +0000"
     },
     "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-26 22:35:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
     },
     "done": true
   },
@@ -495,6 +675,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-27 01:15:11 +0000"
@@ -516,6 +702,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-02-26 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
     },
     "done": true
   },
@@ -543,6 +735,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-27 01:13:40 +0000"
@@ -555,15 +753,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-26 22:39:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-26 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-27 01:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-27 01:25:37 +0000"
     },
     "done": true
   },
@@ -585,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-27 01:29:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cake": {
     "criteria": {
       "has_egg": "2025-02-26 22:34:39 +0000"
@@ -603,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-27 01:25:37 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding": {
     "criteria": {
       "bleeding_applied": "2025-02-27 01:13:57 +0000"
@@ -612,6 +858,18 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-26 22:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-27 01:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-27 01:25:37 +0000"
     },
     "done": true
   },
@@ -660,6 +918,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-26 22:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-27 01:25:00 +0000"
     },
     "done": true
   },
