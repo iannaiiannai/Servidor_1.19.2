@@ -9795,3 +9795,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:01:24.550] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-321, y=71, z=187}) doesn't have enough leaves around top most log
 [27Feb2025 21:01:26.948] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-319, y=71, z=186}) doesn't have enough leaves around top most log
 [27Feb2025 21:01:27.748] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-318, y=71, z=186}) doesn't have enough leaves around top most log
+[27Feb2025 21:02:19.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was doomed to fall by Elephant
+[27Feb2025 21:02:19.703] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:168, y:79, z:316, dim:minecraft:overworld]
+[27Feb2025 21:02:19.703] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:02:21.191] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:02:58.142] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Knowledge of Death]
+[27Feb2025 21:02:58.144] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has reached the goal [Chain Death]
+[27Feb2025 21:02:58.144] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Elephant
+[27Feb2025 21:02:58.145] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:173, y:80, z:326, dim:minecraft:overworld]
+[27Feb2025 21:02:58.155] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:02:59.644] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:03:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Bloodthirsty]
+[27Feb2025 21:05:55.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [87a5406c-4da6-439a-b8a8-38fb67086895]
+[27Feb2025 21:06:16.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:06:16.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:07:10.593] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Savanna Enderman
+[27Feb2025 21:07:10.594] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:226, y:72, z:145, dim:minecraft:overworld]
+[27Feb2025 21:07:10.599] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Feb2025 21:07:10.599] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Feb2025 21:07:10.599] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Feb2025 21:07:10.599] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Feb2025 21:07:10.600] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Feb2025 21:07:10.603] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:07:11.822] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:09:15.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [9e69a1f2-3bc3-3da1-acc0-1ec0085ed588]
+[27Feb2025 21:10:50.311] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Skelewag
+[27Feb2025 21:10:50.312] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:146, y:63, z:48, dim:minecraft:overworld]
+[27Feb2025 21:10:50.320] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:10:53.227] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:11:16.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:11:16.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:11:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [We Just Want our Hat Back]
+[27Feb2025 21:11:55.599] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Skelewag
+[27Feb2025 21:11:55.600] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:146, y:63, z:46, dim:minecraft:overworld]
+[27Feb2025 21:11:55.609] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:11:56.984] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:12:00.603] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [e007497b-5e82-44e4-be37-cc2607063e31]
