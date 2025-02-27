@@ -977,3 +977,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 20:11:06.902] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 32 Y: 61.97572169144349 Z: -75
 [27Feb2025 20:11:06.905] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
 [27Feb2025 20:11:08.448] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[27Feb2025 20:17:57.492] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10244, l='ServerLevel[world]', x=102.50, y=46.00, z=31.50]
