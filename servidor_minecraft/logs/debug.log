@@ -8931,3 +8931,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 02:05:46.143] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [0f13c48b-4f96-49e7-a0a6-b754126c6074]
 [27Feb2025 02:06:00.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 02:06:00.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 02:06:23.652] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [Strong or Careful]
+[27Feb2025 02:06:23.653] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Iron Golem
+[27Feb2025 02:06:23.654] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Coyote_ian was created at position [x:-572, y:63, z:-288, dim:minecraft:overworld]
+[27Feb2025 02:06:23.664] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 02:06:26.401] [Server thread/DEBUG] [twilightforest/]: Player Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605) respawned and received items held in storage
+[27Feb2025 02:09:18.752] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Feb2025 02:11:00.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 02:11:00.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 02:12:06.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [695d04d3-2540-4dbf-85d3-2bfb20549ada]
+[27Feb2025 02:12:20.455] [dimthread_server_overworld/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@789f844e
+[27Feb2025 02:12:41.492] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [695d04d3-2540-4dbf-85d3-2bfb20549ada]
+[27Feb2025 02:16:00.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 02:16:00.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

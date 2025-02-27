@@ -1028,3 +1028,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 01:54:33.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [27Feb2025 01:55:03.709] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14429, l='ServerLevel[world]', x=-669.88, y=65.00, z=-227.49] died, message: 'Unemployed suffocated in a wall'
 [27Feb2025 01:56:40.302] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Mine? Mine? Mine?]
+[27Feb2025 02:06:23.652] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [Strong or Careful]
+[27Feb2025 02:06:23.653] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Iron Golem
+[27Feb2025 02:06:23.664] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 02:09:18.752] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Feb2025 02:12:20.455] [dimthread_server_overworld/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@789f844e
