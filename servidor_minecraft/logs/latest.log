@@ -1106,3 +1106,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 03:00:53.702] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [27Feb2025 03:01:25.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
 [27Feb2025 03:02:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -314 63 180
+[27Feb2025 03:20:48.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[27Feb2025 03:21:21.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -314 63 180
+[27Feb2025 03:24:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Stay dead]
+[27Feb2025 03:24:27.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Walking Dead]
+[27Feb2025 03:24:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Source of Evil]
+[27Feb2025 03:25:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [Bone Crusher]

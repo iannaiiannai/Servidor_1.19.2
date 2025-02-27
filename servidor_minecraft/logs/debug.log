@@ -9101,3 +9101,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 03:11:00.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Feb2025 03:16:00.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 03:16:00.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:20:48.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[27Feb2025 03:21:00.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:21:00.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:21:21.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -314 63 180
+[27Feb2025 03:24:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Stay dead]
+[27Feb2025 03:24:27.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Walking Dead]
+[27Feb2025 03:24:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Source of Evil]
+[27Feb2025 03:25:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [Bone Crusher]
+[27Feb2025 03:26:00.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 03:26:00.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 03:26:30.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [0873755a-1c0c-4067-b7a6-e43630de312e]
