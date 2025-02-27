@@ -1187,3 +1187,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 22:04:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Feb2025 22:04:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [27Feb2025 22:43:07.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Cover Me with Diamonds]
+[27Feb2025 23:05:20.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[27Feb2025 23:05:20.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game

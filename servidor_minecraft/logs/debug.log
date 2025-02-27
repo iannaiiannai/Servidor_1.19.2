@@ -10058,3 +10058,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 22:56:16.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Feb2025 23:01:16.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 23:01:16.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:05:20.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[27Feb2025 23:05:20.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[27Feb2025 23:06:16.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:06:16.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:11:16.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:11:16.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
