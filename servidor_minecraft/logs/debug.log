@@ -9831,3 +9831,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:11:55.609] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
 [27Feb2025 21:11:56.984] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
 [27Feb2025 21:12:00.603] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [e007497b-5e82-44e4-be37-cc2607063e31]
+[27Feb2025 21:12:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Smitty WerbenJagerManJensen]
+[27Feb2025 21:13:10.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [2f9d492c-9b34-43b9-a4b4-f2ef651e8e81]
+[27Feb2025 21:14:23.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[27Feb2025 21:14:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Well prepared]
+[27Feb2025 21:15:48.392] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Zombie Bruiser
+[27Feb2025 21:15:48.393] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:148, y:66, z:171, dim:minecraft:overworld]
+[27Feb2025 21:15:48.401] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:15:49.898] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:16:16.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:16:16.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:16:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [We do a little trolling...]
+[27Feb2025 21:16:43.342] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Kangaroo
+[27Feb2025 21:16:43.343] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:169, y:68, z:160, dim:minecraft:overworld]
+[27Feb2025 21:16:43.353] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:16:44.774] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:20:27.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[27Feb2025 21:21:16.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:21:16.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:21:51.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Magery]

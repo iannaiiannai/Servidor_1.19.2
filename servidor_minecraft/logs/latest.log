@@ -1107,3 +1107,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:11:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [We Just Want our Hat Back]
 [27Feb2025 21:11:55.599] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Skelewag
 [27Feb2025 21:11:55.609] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:12:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Smitty WerbenJagerManJensen]
+[27Feb2025 21:14:23.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[27Feb2025 21:14:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Well prepared]
+[27Feb2025 21:15:48.392] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Zombie Bruiser
+[27Feb2025 21:15:48.401] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:16:37.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [We do a little trolling...]
+[27Feb2025 21:16:43.342] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was slain by Kangaroo
+[27Feb2025 21:16:43.353] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:20:27.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[27Feb2025 21:21:51.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Magery]

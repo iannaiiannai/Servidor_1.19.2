@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-02-27 21:16:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:52:32 +0000"
@@ -278,6 +284,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-02-27 01:12:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-02-27 21:11:47 +0000"
     },
     "done": true
   },
@@ -304,6 +316,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:52:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-02-27 21:12:27 +0000"
     },
     "done": true
   },
@@ -564,6 +582,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-27 20:38:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-02-27 21:18:21 +0000"
     },
     "done": true
   },
