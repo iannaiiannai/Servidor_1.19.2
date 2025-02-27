@@ -937,3 +937,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 18:04:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Ambush]
 [27Feb2025 18:05:46.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy lost connection: Disconnected
 [27Feb2025 18:05:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy left the game
+[27Feb2025 19:34:04.989] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53eadcb1
+[27Feb2025 19:34:04.999] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.140.161.89:53917] logged in with entity id 5528 at (107.5, 64.0, 178.5)
+[27Feb2025 19:34:05.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[27Feb2025 19:34:05.124] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[27Feb2025 19:34:26.990] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Nightmare Stalker
+[27Feb2025 19:34:26.998] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Your First Grave]
+[27Feb2025 19:34:27.000] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 19:37:11.492] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Savannah Creeper
+[27Feb2025 19:37:11.495] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 19:37:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Here They Come]
+[27Feb2025 19:37:34.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[27Feb2025 19:37:34.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
