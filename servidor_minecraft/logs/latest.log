@@ -1102,3 +1102,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 02:36:06.151] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian couldn't take Pyromancer's heat
 [27Feb2025 02:36:06.154] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
 [27Feb2025 02:37:43.553] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25289, l='ServerLevel[world]', x=-346.30, y=46.00, z=154.66] died, message: 'Nitwit was slain by Zombie'
+[27Feb2025 02:59:02.693] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-806, y=-25, z=815}
+[27Feb2025 03:00:53.702] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[27Feb2025 03:01:25.507] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[27Feb2025 03:02:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -314 63 180
