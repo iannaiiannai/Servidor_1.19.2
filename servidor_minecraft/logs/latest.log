@@ -949,3 +949,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 19:37:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Here They Come]
 [27Feb2025 19:37:34.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
 [27Feb2025 19:37:34.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[27Feb2025 19:51:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Feb2025 19:51:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[27Feb2025 20:00:37.955] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74052631
+[27Feb2025 20:00:37.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coyote_ian[/127.123.19.238:42217] logged in with entity id 6045 at (186.46506488790232, 80.0, 271.00844074867365)
+[27Feb2025 20:00:37.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
+[27Feb2025 20:00:38.005] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
