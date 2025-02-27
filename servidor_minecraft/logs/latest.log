@@ -932,3 +932,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 17:55:22.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has reached the goal [Quaint Scribe]
 [27Feb2025 17:56:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Diamonds!]
 [27Feb2025 17:56:36.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Tools of the Trade]
+[27Feb2025 18:03:02.191] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy was shot by Pillager
+[27Feb2025 18:03:02.194] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[27Feb2025 18:04:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Ambush]
+[27Feb2025 18:05:46.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy lost connection: Disconnected
+[27Feb2025 18:05:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy left the game
