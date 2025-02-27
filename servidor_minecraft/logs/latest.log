@@ -994,3 +994,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 01:20:17.604] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Cristein was slain by Corpse Fish
 [27Feb2025 01:20:17.612] [Server thread/INFO] [tombstone/]: The player Cristein has successfully been saved
 [27Feb2025 01:21:14.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -314 63 180
+[27Feb2025 01:37:59.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cristein lost connection: Disconnected
+[27Feb2025 01:37:59.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cristein left the game
+[27Feb2025 01:38:09.905] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[27Feb2025 01:38:11.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [No Longer Short-Staffed]
