@@ -1402,6 +1402,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-02-27 21:35:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-02-26 22:43:15 +0000"
@@ -1694,7 +1700,8 @@
       "mutton": "2025-02-26 22:55:04 +0000",
       "bread": "2025-02-26 22:45:18 +0000",
       "rotten_flesh": "2025-02-26 21:43:56 +0000",
-      "cooked_chicken": "2025-02-26 22:12:48 +0000"
+      "cooked_chicken": "2025-02-26 22:12:48 +0000",
+      "carrot": "2025-02-27 21:36:05 +0000"
     },
     "done": false
   },
@@ -2343,6 +2350,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-27 03:15:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-02-27 21:34:18 +0000"
     },
     "done": true
   },

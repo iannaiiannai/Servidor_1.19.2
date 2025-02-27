@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-02-27 21:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 20:26:32 +0000"
@@ -2708,6 +2714,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-27 19:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-27 21:40:17 +0000"
     },
     "done": true
   },

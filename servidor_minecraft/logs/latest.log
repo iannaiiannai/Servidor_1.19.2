@@ -1136,3 +1136,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:30:42.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=70, z=196} BlockPos{x=-312, y=70, z=195}
 [27Feb2025 21:30:44.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=70, z=199} BlockPos{x=-306, y=69, z=200}
 [27Feb2025 21:30:44.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=70, z=199} BlockPos{x=-306, y=69, z=200}
+[27Feb2025 21:33:15.644] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was shot by Skeleton
+[27Feb2025 21:33:15.648] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:33:33.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Jaws]
+[27Feb2025 21:34:18.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has completed the challenge [The Power of the Sun]
+[27Feb2025 21:34:35.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Ashes 'n Bones]
+[27Feb2025 21:34:36.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Spooky Scary Army]
+[27Feb2025 21:36:10.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Boneyard]
+[27Feb2025 21:42:15.797] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1089, l='ServerLevel[world]', x=-1.66, y=237.00, z=24.72] died, message: 'Toolsmith burned to death'

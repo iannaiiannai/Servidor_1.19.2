@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-27 21:07:39 +0000"
@@ -65,6 +71,18 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 21:34:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-02-27 20:38:12 +0000"
@@ -74,6 +92,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-27 20:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
     },
     "done": true
   },
@@ -95,9 +119,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-02-27 21:34:36 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2025-02-27 21:36:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-02-27 21:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
     },
     "done": true
   },
@@ -173,9 +215,21 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-02-27 21:36:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-27 21:08:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/spider": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
     },
     "done": true
   },
@@ -230,6 +284,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-27 21:07:39 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-27 21:36:10 +0000"
     },
     "done": true
   },
@@ -331,6 +391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-27 20:55:50 +0000"
@@ -415,9 +481,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-02-27 21:33:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-27 20:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
     },
     "done": true
   },
@@ -604,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-27 21:34:29 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-02-27 21:18:21 +0000"
@@ -613,6 +697,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-27 21:35:47 +0000"
     },
     "done": true
   },
@@ -658,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-27 21:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:52:32 +0000"
@@ -685,7 +781,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-27 21:30:01 +0000",
+      "minecraft:spider": "2025-02-27 21:34:28 +0000",
       "minecraft:husk": "2025-02-27 21:28:26 +0000",
+      "minecraft:stray": "2025-02-27 21:32:33 +0000",
       "minecraft:zombie": "2025-02-27 21:31:09 +0000"
     },
     "done": false
@@ -714,6 +812,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-02-27 21:36:10 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-02-27 21:07:39 +0000"
@@ -729,6 +833,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-02-27 21:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-27 21:35:47 +0000"
     },
     "done": true
   },
@@ -777,6 +887,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-27 21:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-27 21:35:47 +0000"
     },
     "done": true
   },
@@ -855,6 +971,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-02-27 21:28:27 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-02-27 21:36:10 +0000"
     },
     "done": true
   },
