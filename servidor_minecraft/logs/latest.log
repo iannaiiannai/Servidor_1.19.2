@@ -1061,3 +1061,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 20:40:08.728] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [27Feb2025 20:40:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has reached the goal [Here They Come]
 [27Feb2025 20:40:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Tools of the Trade]
+[27Feb2025 20:44:09.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian fell from a high place
+[27Feb2025 20:44:09.938] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.44.09.dat
+[27Feb2025 20:44:09.938] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -8 Y: 71 Z: 420
+[27Feb2025 20:44:09.939] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:44:18.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
+[27Feb2025 20:44:18.285] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:47:31.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -137 109
+[27Feb2025 20:48:34.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Gravedigger]

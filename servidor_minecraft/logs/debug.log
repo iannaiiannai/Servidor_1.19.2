@@ -9696,3 +9696,65 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 20:40:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Tools of the Trade]
 [27Feb2025 20:41:16.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 20:41:16.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 20:44:09.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian fell from a high place
+[27Feb2025 20:44:09.938] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.44.09.dat
+[27Feb2025 20:44:09.938] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -8 Y: 71 Z: 420
+[27Feb2025 20:44:09.939] [Server thread/DEBUG] [tombstone/]: A new grave of the player Coyote_ian was created at position [x:-7, y:70, z:420, dim:minecraft:overworld]
+[27Feb2025 20:44:09.939] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:44:11.398] [Server thread/DEBUG] [twilightforest/]: Player Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605) respawned and received items held in storage
+[27Feb2025 20:44:18.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 fell from a high place
+[27Feb2025 20:44:18.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-6, y:68, z:419, dim:minecraft:overworld]
+[27Feb2025 20:44:18.285] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:44:20.178] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[27Feb2025 20:45:59.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[27Feb2025 20:46:16.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 20:46:16.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 20:47:31.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -137 109
+[27Feb2025 20:48:18.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[27Feb2025 20:48:34.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Gravedigger]
+[27Feb2025 20:49:53.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tower_1
+[27Feb2025 20:49:53.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[27Feb2025 20:50:16.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[27Feb2025 20:50:33.464] [Worker-Main-191/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_04
+[27Feb2025 20:50:34.236] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_dark_oak_log
+[27Feb2025 20:50:34.250] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_1
+[27Feb2025 20:50:34.261] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:big_jungle_log
+[27Feb2025 20:50:34.271] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spruce_log_2
+[27Feb2025 20:50:34.280] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:birch_log
+[27Feb2025 20:50:34.291] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[27Feb2025 20:50:34.305] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_1
+[27Feb2025 20:50:34.314] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_1
+[27Feb2025 20:50:34.324] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[27Feb2025 20:50:34.333] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_oak_log
+[27Feb2025 20:50:34.345] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_1
+[27Feb2025 20:50:34.356] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_spruce_tree_2
+[27Feb2025 20:50:34.365] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:acacia_log
+[27Feb2025 20:50:34.384] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_palm_tree_2
+[27Feb2025 20:50:34.397] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:standing_spruce_log
+[27Feb2025 20:50:34.408] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:log_bundle
+[27Feb2025 20:50:42.872] [Worker-Main-182/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_12 is being run through DFU (hash 352ddcf800ad0c963554150f024d28ec3c93539b8b738530f23ee3b5cbbaa339), this will cause launch time delays
+[27Feb2025 20:50:42.984] [Worker-Main-184/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_1
+[27Feb2025 20:50:42.996] [Worker-Main-184/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_2
+[27Feb2025 20:50:43.004] [Worker-Main-184/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bone_2
+[27Feb2025 20:50:43.016] [Worker-Main-184/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fossil_1
+[27Feb2025 20:51:03.253] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_2
+[27Feb2025 20:51:11.175] [Worker-Main-183/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_3
+[27Feb2025 20:51:11.191] [Worker-Main-183/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_4
+[27Feb2025 20:51:11.204] [Worker-Main-183/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_1
+[27Feb2025 20:51:11.223] [Worker-Main-183/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_tower_2
+[27Feb2025 20:51:12.091] [Worker-Main-191/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[27Feb2025 20:51:12.107] [Worker-Main-191/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[27Feb2025 20:51:16.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 20:51:16.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 20:51:17.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [9e69a1f2-3bc3-3da1-acc0-1ec0085ed588]
+[27Feb2025 20:51:30.420] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[27Feb2025 20:51:30.571] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_2
+[27Feb2025 20:51:30.572] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_pillar_1
+[27Feb2025 20:51:30.572] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_2
+[27Feb2025 20:51:30.588] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:desert_pillars_1
+[27Feb2025 20:51:30.630] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_2
+[27Feb2025 20:51:30.640] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[27Feb2025 20:51:30.652] [Worker-Main-189/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_pillar_ruin_1
+[27Feb2025 20:51:30.814] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_2
+[27Feb2025 20:51:30.857] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_3
+[27Feb2025 20:51:30.871] [Worker-Main-190/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:snow_pile_1
