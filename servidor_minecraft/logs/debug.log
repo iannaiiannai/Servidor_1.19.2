@@ -9940,3 +9940,41 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:56:16.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Feb2025 22:01:16.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 22:01:16.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 22:03:13.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Feb2025 22:03:13.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[27Feb2025 22:03:13.651] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[27Feb2025 22:03:35.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuu_gmpp lost connection: Disconnected
+[27Feb2025 22:03:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp left the game
+[27Feb2025 22:04:25.344] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Strong or Careful]
+[27Feb2025 22:04:25.345] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 went off with a bang thanks to Coyote_ian
+[27Feb2025 22:04:25.348] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J4so_0 with unique ID travelersbackpack.standard_27.02.2025-22.04.25.dat
+[27Feb2025 22:04:25.349] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -312 Y: 63 Z: 178
+[27Feb2025 22:04:25.349] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-312, y:63, z:177, dim:minecraft:overworld]
+[27Feb2025 22:04:25.351] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 22:04:27.256] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[27Feb2025 22:04:35.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Disconnected
+[27Feb2025 22:04:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game
+[27Feb2025 22:04:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Feb2025 22:04:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[27Feb2025 22:05:35.302] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:06:16.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 22:06:16.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 22:10:52.804] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=71, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:10:54.402] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=71, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:10:55.452] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=72, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:10:56.503] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=72, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:10:57.655] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=73, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:10:58.702] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=73, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:10:59.751] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=72, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:00.803] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=73, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:01.852] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=73, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:06.103] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=74, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:07.601] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=74, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:08.651] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=75, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:09.704] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=76, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:10.751] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=77, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:16.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 22:11:16.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 22:11:29.204] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=74, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:31.003] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=75, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:11:51.104] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=82, z=194}) doesn't have enough leaves around top most log

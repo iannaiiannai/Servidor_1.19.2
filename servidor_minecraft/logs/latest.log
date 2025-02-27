@@ -1173,3 +1173,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:55:23.857] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-21.55.23.dat
 [27Feb2025 21:55:23.857] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -120 Y: 66 Z: 117
 [27Feb2025 21:55:23.858] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 22:03:13.200] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[27Feb2025 22:03:13.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[27Feb2025 22:03:35.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuu_gmpp lost connection: Disconnected
+[27Feb2025 22:03:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp left the game
+[27Feb2025 22:04:25.344] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Strong or Careful]
+[27Feb2025 22:04:25.345] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 went off with a bang thanks to Coyote_ian
+[27Feb2025 22:04:25.348] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J4so_0 with unique ID travelersbackpack.standard_27.02.2025-22.04.25.dat
+[27Feb2025 22:04:25.349] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -312 Y: 63 Z: 178
+[27Feb2025 22:04:25.351] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 22:04:35.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Disconnected
+[27Feb2025 22:04:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game
+[27Feb2025 22:04:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Feb2025 22:04:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
