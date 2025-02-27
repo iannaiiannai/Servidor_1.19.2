@@ -955,3 +955,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 20:00:37.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coyote_ian[/127.123.19.238:42217] logged in with entity id 6045 at (186.46506488790232, 80.0, 271.00844074867365)
 [27Feb2025 20:00:37.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
 [27Feb2025 20:00:38.005] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
+[27Feb2025 20:02:18.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[27Feb2025 20:02:58.340] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[27Feb2025 20:04:47.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian lost connection: Disconnected
+[27Feb2025 20:04:47.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian left the game
+[27Feb2025 20:07:22.141] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@441215f0
+[27Feb2025 20:07:22.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.140.161.89:44013] logged in with entity id 6975 at (185.75810967314024, 71.0, 161.38124319825332)
+[27Feb2025 20:07:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[27Feb2025 20:07:22.169] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[27Feb2025 20:07:34.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[27Feb2025 20:07:34.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[27Feb2025 20:08:38.594] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1bef8032
+[27Feb2025 20:08:38.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coyote_ian[/127.123.19.238:41999] logged in with entity id 7159 at (329.6633528155787, 67.0, -72.42845140132218)
+[27Feb2025 20:08:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian joined the game
+[27Feb2025 20:08:38.617] [Server thread/INFO] [Jade/]: Syncing config to Coyote_ian (a270e905-94c0-3ed1-b5c6-f9ae76e8b605)
+[27Feb2025 20:09:09.976] [Worker-Main-184/WARN] [ModernFix/]: The namespace graveyard contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[27Feb2025 20:09:09.977] [Worker-Main-184/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Feb2025 20:09:10.244] [Worker-Main-184/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[27Feb2025 20:11:06.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian drowned whilst trying to escape Ocean Creeper
+[27Feb2025 20:11:06.899] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.11.06.dat
+[27Feb2025 20:11:06.902] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 32 Y: 61.97572169144349 Z: -75
+[27Feb2025 20:11:06.905] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:11:08.448] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType

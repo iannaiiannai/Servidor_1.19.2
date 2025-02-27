@@ -445,6 +445,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-27 20:03:02 +0000",
       "shrubland": "2025-02-27 01:20:29 +0000",
       "scrubland": "2025-02-26 21:20:09 +0000",
       "bayou": "2025-02-26 21:31:12 +0000",
