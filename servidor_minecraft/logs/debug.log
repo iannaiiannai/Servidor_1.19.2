@@ -9978,3 +9978,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 22:11:29.204] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=74, z=193}) doesn't have enough leaves around top most log
 [27Feb2025 22:11:31.003] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=75, z=193}) doesn't have enough leaves around top most log
 [27Feb2025 22:11:51.104] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=82, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:16:16.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 22:16:16.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 22:16:30.863] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:31.911] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:32.963] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:37.111] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:38.161] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:39.212] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:40.262] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:41.311] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:42.361] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:43.411] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:16:44.761] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Feb2025 22:17:17.655] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=74, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:19.156] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=74, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:20.206] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=75, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:21.505] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=75, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:22.957] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=75, z=193}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:24.357] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-337, y=71, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:25.404] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=71, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:17:26.457] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-336, y=72, z=194}) doesn't have enough leaves around top most log
+[27Feb2025 22:21:16.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 22:21:16.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

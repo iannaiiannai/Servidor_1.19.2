@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-02-27 20:26:32 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-27 20:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-27 19:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
@@ -1044,6 +1062,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-02-27 20:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
@@ -2135,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-27 21:05:42 +0000"
@@ -2168,6 +2198,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-27 20:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
@@ -2276,6 +2312,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-27 20:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
@@ -2492,6 +2534,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-02-27 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
@@ -2864,6 +2912,12 @@
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-02-27 20:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:18:02 +0000"
     },
     "done": true
   },
