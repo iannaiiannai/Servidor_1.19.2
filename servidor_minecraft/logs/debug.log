@@ -9850,3 +9850,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:21:16.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 21:21:16.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Feb2025 21:21:51.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Magery]
+[27Feb2025 21:24:45.531] [Worker-Main-183/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_crystal
+[27Feb2025 21:26:16.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:26:16.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:26:36.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [9e69a1f2-3bc3-3da1-acc0-1ec0085ed588]
+[27Feb2025 21:26:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Sweet Dreams]
+[27Feb2025 21:26:45.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [9e69a1f2-3bc3-3da1-acc0-1ec0085ed588]
+[27Feb2025 21:26:48.993] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was laid to rest by Coyote_ian
+[27Feb2025 21:26:48.994] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player facuu_gmpp was created at position [x:-63, y:65, z:-146, dim:minecraft:overworld]
+[27Feb2025 21:26:48.997] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 21:26:50.418] [Server thread/DEBUG] [twilightforest/]: Player facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588) respawned and received items held in storage
+[27Feb2025 21:28:00.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-299, y=71, z=214} BlockPos{x=-299, y=69, z=214}
+[27Feb2025 21:28:00.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-300, y=71, z=214} BlockPos{x=-300, y=69, z=214}
+[27Feb2025 21:28:26.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Monster Hunter]
+[27Feb2025 21:28:59.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=70, z=200} BlockPos{x=-299, y=70, z=197}
+[27Feb2025 21:28:59.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=70, z=201} BlockPos{x=-299, y=70, z=197}
+[27Feb2025 21:29:41.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-314, y=63, z=193} BlockPos{x=-314, y=63, z=195}
+[27Feb2025 21:29:41.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-314, y=63, z=193} BlockPos{x=-314, y=63, z=195}
+[27Feb2025 21:30:34.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=71, z=198} BlockPos{x=-313, y=70, z=198}
+[27Feb2025 21:30:35.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=72, z=197} BlockPos{x=-314, y=70, z=195}
+[27Feb2025 21:30:42.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=70, z=195} BlockPos{x=-312, y=70, z=195}
+[27Feb2025 21:30:42.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=70, z=195} BlockPos{x=-312, y=70, z=195}
+[27Feb2025 21:30:42.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=70, z=196} BlockPos{x=-312, y=70, z=195}
+[27Feb2025 21:30:42.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=70, z=196} BlockPos{x=-312, y=70, z=195}
+[27Feb2025 21:30:42.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=70, z=196} BlockPos{x=-312, y=70, z=195}
+[27Feb2025 21:30:44.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=70, z=199} BlockPos{x=-306, y=69, z=200}
+[27Feb2025 21:30:44.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=70, z=199} BlockPos{x=-306, y=69, z=200}
+[27Feb2025 21:31:16.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [4147584b-5900-406d-b607-f1253e55dceb]
+[27Feb2025 21:31:16.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:31:16.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
