@@ -922,3 +922,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 17:49:19.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FranculoCEOuy[/127.219.233.89:57577] logged in with entity id 2711 at (123.89563983948395, 70.0, 330.68835254984816)
 [27Feb2025 17:49:19.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy joined the game
 [27Feb2025 17:49:19.057] [Server thread/INFO] [Jade/]: Syncing config to FranculoCEOuy (b0b146dc-8750-3263-8000-b75f3afe8c72)
+[27Feb2025 17:51:03.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [It's an Emu!!!]
+[27Feb2025 17:51:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Bloodthirsty]
+[27Feb2025 17:51:21.341] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy was slain by Emu
+[27Feb2025 17:51:21.345] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[27Feb2025 17:51:31.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has reached the goal [Here They Come]
+[27Feb2025 17:52:21.897] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[27Feb2025 17:54:25.890] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[27Feb2025 17:55:22.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has reached the goal [Quaint Scribe]
+[27Feb2025 17:56:14.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Diamonds!]
+[27Feb2025 17:56:36.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Tools of the Trade]
