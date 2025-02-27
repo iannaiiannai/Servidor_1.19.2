@@ -1165,3 +1165,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 21:51:20.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 38 Y: 236 Z: 42
 [27Feb2025 21:51:20.357] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
 [27Feb2025 21:52:30.990] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1113, l='ServerLevel[world]', x=21.36, y=62.51, z=33.31] died, message: 'Fletcher bled to death from injuries caused by facuu_gmpp'
+[27Feb2025 21:52:52.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Getting an Upgrade]
+[27Feb2025 21:53:01.741] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1045, l='ServerLevel[world]', x=67.56, y=62.49, z=22.47] died, message: 'Butcher bled to death from injuries caused by facuu_gmpp'
+[27Feb2025 21:54:03.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Sweet Dreams]
+[27Feb2025 21:54:41.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Ashes 'n Bones]
+[27Feb2025 21:55:23.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by facuu_gmpp
+[27Feb2025 21:55:23.857] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-21.55.23.dat
+[27Feb2025 21:55:23.857] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -120 Y: 66 Z: 117
+[27Feb2025 21:55:23.858] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
