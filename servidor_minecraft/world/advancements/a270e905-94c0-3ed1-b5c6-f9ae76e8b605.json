@@ -604,6 +604,7 @@
       "minecraft:skeleton": "2025-02-26 21:46:42 +0000",
       "minecraft:vindicator": "2025-02-26 22:46:27 +0000",
       "minecraft:spider": "2025-02-26 22:59:35 +0000",
+      "minecraft:creeper": "2025-02-27 20:51:38 +0000",
       "minecraft:husk": "2025-02-27 03:30:42 +0000",
       "minecraft:stray": "2025-02-27 03:30:38 +0000",
       "minecraft:zombie": "2025-02-26 22:35:30 +0000",
@@ -1409,6 +1410,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-26 22:03:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-02-27 20:59:45 +0000"
     },
     "done": true
   },
