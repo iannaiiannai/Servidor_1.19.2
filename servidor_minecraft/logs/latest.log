@@ -1101,3 +1101,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 02:28:10.265] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
 [27Feb2025 02:36:06.151] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian couldn't take Pyromancer's heat
 [27Feb2025 02:36:06.154] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 02:37:43.553] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25289, l='ServerLevel[world]', x=-346.30, y=46.00, z=154.66] died, message: 'Nitwit was slain by Zombie'
