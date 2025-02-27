@@ -1009,3 +1009,55 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 20:30:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -137 109
 [27Feb2025 20:31:17.242] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Baby Skeleton
 [27Feb2025 20:31:17.246] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:32:33.693] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Vex
+[27Feb2025 20:32:33.695] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:33:16.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coyote_ian moved wrongly!
+[27Feb2025 20:33:53.841] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Vindicator
+[27Feb2025 20:33:53.845] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.33.53.dat
+[27Feb2025 20:33:53.846] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 7 Y: 67 Z: 425
+[27Feb2025 20:33:53.849] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:33:54.034] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Feb2025 20:33:54.034] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[27Feb2025 20:33:54.034] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Feb2025 20:33:54.034] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Feb2025 20:33:54.034] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Feb2025 20:34:22.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Stone Age]
+[27Feb2025 20:34:32.293] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has reached the goal [Chain Death]
+[27Feb2025 20:34:32.293] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Vindicator
+[27Feb2025 20:34:32.297] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.34.32.dat
+[27Feb2025 20:34:32.298] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 20 Y: 66 Z: 412
+[27Feb2025 20:34:32.305] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:34:32.387] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Feb2025 20:34:32.387] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[27Feb2025 20:34:32.387] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Feb2025 20:34:32.387] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Feb2025 20:34:32.387] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Feb2025 20:35:29.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Ambush]
+[27Feb2025 20:35:51.345] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was caught by Archevoker's fangs
+[27Feb2025 20:35:51.348] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:36:34.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -137 109
+[27Feb2025 20:36:40.044] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@427609ca
+[27Feb2025 20:36:40.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuu_gmpp[/127.102.37.153:32841] logged in with entity id 18761 at (129.76931607929103, 64.0, 199.0789045477697)
+[27Feb2025 20:36:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp joined the game
+[27Feb2025 20:36:40.072] [Server thread/INFO] [Jade/]: Syncing config to facuu_gmpp (9e69a1f2-3bc3-3da1-acc0-1ec0085ed588)
+[27Feb2025 20:37:29.992] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 went off with a bang thanks to Archevoker
+[27Feb2025 20:37:29.997] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:39:06.141] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 went off with a bang thanks to Archevoker
+[27Feb2025 20:39:06.144] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:39:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [No Longer Short-Staffed]
+[27Feb2025 20:39:57.341] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp was eviscerated by Archevoker's vexes
+[27Feb2025 20:39:57.343] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has made the advancement [Your First Grave]
+[27Feb2025 20:39:57.344] [Server thread/INFO] [tombstone/]: The player facuu_gmpp has successfully been saved
+[27Feb2025 20:40:06.342] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was eviscerated by Archevoker's vexes
+[27Feb2025 20:40:06.346] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.40.06.dat
+[27Feb2025 20:40:06.347] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 15 Y: 64 Z: 430
+[27Feb2025 20:40:06.350] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:40:08.496] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was eviscerated by Archevoker's vexes
+[27Feb2025 20:40:08.505] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[27Feb2025 20:40:08.728] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[27Feb2025 20:40:08.728] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[27Feb2025 20:40:08.728] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[27Feb2025 20:40:08.728] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[27Feb2025 20:40:08.728] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[27Feb2025 20:40:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuu_gmpp has reached the goal [Here They Come]
+[27Feb2025 20:40:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Tools of the Trade]

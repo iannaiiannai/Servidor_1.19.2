@@ -1652,6 +1652,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 20:34:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-02-27 20:22:59 +0000"
