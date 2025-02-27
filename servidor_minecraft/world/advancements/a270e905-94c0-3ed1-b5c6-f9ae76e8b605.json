@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-27 01:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
@@ -361,6 +367,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-27 01:52:03 +0000",
       "chicken": "2025-02-26 21:33:44 +0000",
       "cooked_mutton": "2025-02-26 22:31:11 +0000",
       "beef": "2025-02-26 22:01:34 +0000",
@@ -1664,6 +1671,7 @@
       "minecraft:lukewarm_ocean": "2025-02-26 21:21:52 +0000",
       "minecraft:river": "2025-02-26 21:20:14 +0000",
       "minecraft:dripstone_caves": "2025-02-26 22:05:02 +0000",
+      "minecraft:ocean": "2025-02-27 01:54:42 +0000",
       "minecraft:windswept_savanna": "2025-02-26 23:01:09 +0000",
       "minecraft:flower_forest": "2025-02-26 22:36:52 +0000",
       "minecraft:savanna": "2025-02-26 21:20:16 +0000",
