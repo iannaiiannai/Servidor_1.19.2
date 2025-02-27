@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-02-27 03:33:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/creeper": {
     "criteria": {
       "has_gunpowder": "2025-02-26 21:55:22 +0000"
@@ -596,6 +602,8 @@
       "minecraft:skeleton": "2025-02-26 21:46:42 +0000",
       "minecraft:vindicator": "2025-02-26 22:46:27 +0000",
       "minecraft:spider": "2025-02-26 22:59:35 +0000",
+      "minecraft:husk": "2025-02-27 03:30:42 +0000",
+      "minecraft:stray": "2025-02-27 03:30:38 +0000",
       "minecraft:zombie": "2025-02-26 22:35:30 +0000",
       "minecraft:zombie_villager": "2025-02-27 01:00:34 +0000"
     },
@@ -1432,6 +1440,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-02-27 03:33:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-27 03:15:52 +0000"
@@ -1513,6 +1527,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 02:39:52 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-02-27 03:33:46 +0000"
     },
     "done": true
   },
@@ -2250,6 +2270,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2025-02-27 03:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-02-26 22:03:16 +0000"
@@ -2703,6 +2729,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-26 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-02-27 03:33:46 +0000"
     },
     "done": true
   },
