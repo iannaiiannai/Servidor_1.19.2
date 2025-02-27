@@ -978,3 +978,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 20:11:06.905] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
 [27Feb2025 20:11:08.448] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
 [27Feb2025 20:17:57.492] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10244, l='ServerLevel[world]', x=102.50, y=46.00, z=31.50]
+[27Feb2025 20:22:59.541] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [We do a little trolling...]
+[27Feb2025 20:23:49.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian fell from a high place
+[27Feb2025 20:23:49.645] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.23.49.dat
+[27Feb2025 20:23:49.646] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 110 Y: 65 Z: 223
+[27Feb2025 20:23:49.647] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:24:58.343] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@186459a0
+[27Feb2025 20:24:58.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.140.161.89:51419] logged in with entity id 12159 at (190.12435503902762, 72.0, 164.3452740690963)
+[27Feb2025 20:24:58.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[27Feb2025 20:24:58.371] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[27Feb2025 20:25:06.934] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[27Feb2025 20:25:06.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[27Feb2025 20:25:06.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> bueno joaco
+[27Feb2025 20:25:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> ola
+[27Feb2025 20:25:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> pasa coords
+[27Feb2025 20:25:25.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> 192 173
+[27Feb2025 20:26:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Acquire Hardware]
+[27Feb2025 20:26:36.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> ala
+[27Feb2025 20:26:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Isn't It Iron Pick]
+[27Feb2025 20:26:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Suit Up]
+[27Feb2025 20:28:23.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [It's an Emu!!!]
+[27Feb2025 20:28:54.290] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Is this... blood?]
+[27Feb2025 20:28:56.091] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian was slain by Zombie
+[27Feb2025 20:28:56.095] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Coyote_ian with unique ID travelersbackpack.iron_27.02.2025-20.28.56.dat
+[27Feb2025 20:28:56.099] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 201 Y: 72 Z: 181
+[27Feb2025 20:28:56.101] [Server thread/INFO] [tombstone/]: The player Coyote_ian has successfully been saved
+[27Feb2025 20:29:51.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Monster Hunter]
+[27Feb2025 20:29:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Knowledge of Death]
+[27Feb2025 20:29:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [A Strange Grave Dust]
+[27Feb2025 20:30:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coyote_ian> -137 109
+[27Feb2025 20:31:17.242] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Baby Skeleton
+[27Feb2025 20:31:17.246] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
