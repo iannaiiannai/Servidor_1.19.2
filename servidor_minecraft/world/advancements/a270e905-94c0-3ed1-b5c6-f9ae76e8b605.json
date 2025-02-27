@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-02-27 01:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-26 22:03:16 +0000"
@@ -486,6 +492,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-27 01:09:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-26 21:20:12 +0000"
@@ -626,13 +638,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-02-27 01:20:29 +0000",
       "scrubland": "2025-02-26 21:20:09 +0000",
       "bayou": "2025-02-26 21:31:12 +0000",
       "marsh": "2025-02-26 22:00:39 +0000",
       "mediterranean_forest": "2025-02-26 22:09:44 +0000",
       "spider_nest": "2025-02-26 22:05:36 +0000",
       "dune_beach": "2025-02-26 22:58:57 +0000",
-      "lavender_field": "2025-02-26 22:00:53 +0000"
+      "lavender_field": "2025-02-26 22:00:53 +0000",
+      "prairie": "2025-02-27 01:05:11 +0000"
     },
     "done": false
   },
@@ -783,6 +797,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-26 22:12:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-02-27 01:08:33 +0000"
     },
     "done": true
   },
@@ -1037,6 +1057,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 01:09:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-02-26 22:02:04 +0000"
@@ -1082,6 +1108,18 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-02-26 22:59:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-27 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-27 01:19:07 +0000"
     },
     "done": true
   },
@@ -1741,9 +1779,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-27 01:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-26 21:34:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-27 01:07:43 +0000"
     },
     "done": true
   },
