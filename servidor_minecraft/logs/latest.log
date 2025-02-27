@@ -1027,3 +1027,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 01:54:31.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [27Feb2025 01:54:33.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [27Feb2025 01:55:03.709] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14429, l='ServerLevel[world]', x=-669.88, y=65.00, z=-227.49] died, message: 'Unemployed suffocated in a wall'
+[27Feb2025 01:56:40.302] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Coyote_ian has made the advancement [Mine? Mine? Mine?]
