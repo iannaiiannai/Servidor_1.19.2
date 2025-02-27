@@ -8457,3 +8457,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [27Feb2025 19:37:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Here They Come]
 [27Feb2025 19:37:34.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
 [27Feb2025 19:37:34.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[27Feb2025 19:41:16.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 19:41:16.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 19:46:16.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 19:46:16.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
