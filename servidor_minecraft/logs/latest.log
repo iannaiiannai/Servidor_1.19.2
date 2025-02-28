@@ -1006,3 +1006,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 03:00:55.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Sweet Dreams]
 [28Feb2025 03:03:38.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
 [28Feb2025 03:09:50.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [What a Deal!]
+[28Feb2025 03:13:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Into Fire]
+[28Feb2025 03:15:43.293] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6929, l='ServerLevel[world]', x=875.28, y=121.00, z=639.37] died, message: 'Unemployed suffocated in a wall'
+[28Feb2025 03:18:14.826] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[28Feb2025 03:18:14.843] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=30, z=-1225}
+[28Feb2025 03:18:18.088] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=28, z=-1201}
+[28Feb2025 03:18:18.111] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=32, z=-1209}
+[28Feb2025 03:19:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Isn't It Iron Pick]
+[28Feb2025 03:20:49.981] [Worker-Main-28/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[28Feb2025 03:21:37.094] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[28Feb2025 03:21:58.391] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [What Was That!?]
+[28Feb2025 03:22:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy hit the ground too hard whilst trying to escape Ghoul
+[28Feb2025 03:22:03.128] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[28Feb2025 03:22:03.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy moved wrongly!
