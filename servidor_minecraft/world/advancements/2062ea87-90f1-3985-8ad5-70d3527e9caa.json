@@ -702,6 +702,7 @@
       "minecraft:pillager": "2025-02-27 20:35:29 +0000",
       "minecraft:skeleton": "2025-02-27 20:35:15 +0000",
       "minecraft:spider": "2025-02-28 22:55:19 +0000",
+      "minecraft:stray": "2025-02-28 23:23:37 +0000",
       "minecraft:vex": "2025-02-27 20:33:55 +0000",
       "minecraft:zombie": "2025-02-27 20:29:51 +0000",
       "minecraft:zombie_villager": "2025-02-27 20:49:49 +0000"
@@ -837,6 +838,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-27 21:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-28 23:23:53 +0000"
     },
     "done": true
   },
@@ -1566,6 +1573,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-27 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-02-28 23:29:17 +0000"
     },
     "done": true
   },
@@ -2348,6 +2361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-28 23:23:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cake": {
     "criteria": {
       "has_egg": "2025-02-27 20:28:31 +0000"
@@ -2363,6 +2382,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-27 21:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-28 23:23:53 +0000"
     },
     "done": true
   },
