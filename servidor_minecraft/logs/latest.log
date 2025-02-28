@@ -991,3 +991,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 23:23:37.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [28Feb2025 23:24:36.556] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
 [28Feb2025 23:34:28.562] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18271, l='ServerLevel[world]', x=-309.63, y=67.00, z=157.50] died, message: 'Unemployed was laid to rest by Priest'
+[28Feb2025 23:51:54.567] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b0a14a6
+[28Feb2025 23:51:54.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crester_Craft[/127.148.92.104:40469] logged in with entity id 21037 at (114.5, 64.0, 185.5)
+[28Feb2025 23:51:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft joined the game
+[28Feb2025 23:51:54.741] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
