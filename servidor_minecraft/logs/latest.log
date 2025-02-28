@@ -990,3 +990,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 23:18:48.857] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15688, l='ServerLevel[world]', x=-223.50, y=52.00, z=1158.50]
 [28Feb2025 23:23:37.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [28Feb2025 23:24:36.556] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[28Feb2025 23:34:28.562] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18271, l='ServerLevel[world]', x=-309.63, y=67.00, z=157.50] died, message: 'Unemployed was laid to rest by Priest'
