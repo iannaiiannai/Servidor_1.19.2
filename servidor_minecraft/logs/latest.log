@@ -1033,3 +1033,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 04:10:54.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b<--[HERE]
 [28Feb2025 04:12:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy fell from a high place
 [28Feb2025 04:12:51.259] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[28Feb2025 04:13:26.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy lost connection: Disconnected
+[28Feb2025 04:13:26.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy left the game

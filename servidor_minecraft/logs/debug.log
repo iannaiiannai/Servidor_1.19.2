@@ -8415,3 +8415,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 04:12:53.717] [Server thread/DEBUG] [twilightforest/]: Player FranculoCEOuy (b0b146dc-8750-3263-8000-b75f3afe8c72) respawned and received items held in storage
 [28Feb2025 04:13:05.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Feb2025 04:13:05.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 04:13:26.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy lost connection: Disconnected
+[28Feb2025 04:13:26.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy left the game
+[28Feb2025 04:18:05.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 04:18:05.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 04:23:05.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 04:23:05.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
