@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-02-28 23:10:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-02-27 22:18:02 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-27 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-02-28 22:56:03 +0000"
@@ -503,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-02-27 20:26:59 +0000"
@@ -517,8 +541,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-02-28 23:01:20 +0000",
       "scrubland": "2025-02-27 20:30:36 +0000",
       "bayou": "2025-02-27 20:30:53 +0000",
+      "marsh": "2025-02-28 23:00:28 +0000",
       "mediterranean_forest": "2025-02-27 20:30:47 +0000",
       "spider_nest": "2025-02-27 20:54:32 +0000",
       "dune_beach": "2025-02-27 20:46:39 +0000",
@@ -557,6 +583,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:34:22 +0000"
@@ -578,6 +610,12 @@
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2025-02-27 20:26:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -605,6 +643,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-02-27 19:34:26 +0000"
@@ -614,6 +658,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-27 21:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -1048,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-02-28 22:56:03 +0000"
@@ -1093,6 +1149,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-27 20:26:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -1276,9 +1338,11 @@
       "minecraft:beach": "2025-02-27 19:34:05 +0000",
       "minecraft:lukewarm_ocean": "2025-02-27 19:36:30 +0000",
       "minecraft:river": "2025-02-27 20:36:17 +0000",
+      "minecraft:ocean": "2025-02-28 22:59:38 +0000",
       "minecraft:windswept_savanna": "2025-02-27 20:38:08 +0000",
       "minecraft:flower_forest": "2025-02-27 20:35:41 +0000",
-      "minecraft:savanna": "2025-02-27 19:36:13 +0000"
+      "minecraft:savanna": "2025-02-27 19:36:13 +0000",
+      "minecraft:plains": "2025-02-28 23:01:15 +0000"
     },
     "done": false
   },
@@ -1309,6 +1373,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:34:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -1357,6 +1427,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-27 20:34:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -1738,6 +1814,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-27 19:36:27 +0000"
@@ -1828,7 +1910,8 @@
       "porkchop": "2025-02-27 21:09:39 +0000",
       "apple": "2025-02-27 22:31:12 +0000",
       "pumpkin_pie": "2025-02-27 22:58:51 +0000",
-      "bread": "2025-02-27 20:50:09 +0000"
+      "bread": "2025-02-27 20:50:09 +0000",
+      "golden_carrot": "2025-02-28 23:10:38 +0000"
     },
     "done": false
   },
@@ -1988,6 +2071,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-27 20:33:54 +0000"
@@ -2039,6 +2128,12 @@
   "travelersbackpack:recipes/travelersbackpack/skeleton": {
     "criteria": {
       "has_arrow": "2025-02-27 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -2279,6 +2374,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-27 22:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -2612,6 +2713,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-27 21:05:42 +0000"
@@ -2726,6 +2833,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-02-28 23:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-27 20:26:43 +0000"
@@ -2747,6 +2860,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-02-28 22:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
@@ -2915,6 +3034,12 @@
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-02-28 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-28 22:58:24 +0000"
     },
     "done": true
   },
