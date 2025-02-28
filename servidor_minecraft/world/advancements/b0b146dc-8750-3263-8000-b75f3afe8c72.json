@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-27 17:47:24 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 17:46:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
     },
     "done": true
   },
@@ -474,6 +486,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-28 03:07:09 +0000"
@@ -702,6 +720,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-02-28 03:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-27 17:41:23 +0000"
@@ -729,6 +753,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-02-27 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
     },
     "done": true
   },
@@ -855,6 +885,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 17:46:33 +0000"
@@ -894,6 +930,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-27 17:47:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
     },
     "done": true
   },
@@ -1044,6 +1086,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-27 17:47:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
     },
     "done": true
   },
@@ -1287,6 +1335,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-28 03:19:41 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2025-02-27 17:56:14 +0000"
@@ -1326,6 +1380,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-02-27 17:44:06 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-02-28 03:26:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-28 03:26:16 +0000"
     },
     "done": true
   },
@@ -1374,6 +1440,12 @@
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2025-02-27 17:46:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2025-02-28 03:26:16 +0000"
     },
     "done": true
   },

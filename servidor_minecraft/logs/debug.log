@@ -8355,3 +8355,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 03:22:03.128] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
 [28Feb2025 03:22:03.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy moved wrongly!
 [28Feb2025 03:22:04.845] [Server thread/DEBUG] [twilightforest/]: Player FranculoCEOuy (b0b146dc-8750-3263-8000-b75f3afe8c72) respawned and received items held in storage
+[28Feb2025 03:23:05.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 03:23:05.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 03:25:07.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy was doomed to fall by Dark Vortex
+[28Feb2025 03:25:07.808] [Server thread/DEBUG] [tombstone/]: A new grave of the player FranculoCEOuy was created at position [x:846, y:101, z:600, dim:minecraft:overworld]
+[28Feb2025 03:25:07.809] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[28Feb2025 03:25:09.587] [Server thread/DEBUG] [twilightforest/]: Player FranculoCEOuy (b0b146dc-8750-3263-8000-b75f3afe8c72) respawned and received items held in storage
+[28Feb2025 03:26:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Source of Evil]
+[28Feb2025 03:28:05.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 03:28:05.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 03:28:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Ashes 'n Bones]

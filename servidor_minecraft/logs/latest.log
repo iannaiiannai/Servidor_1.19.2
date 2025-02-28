@@ -1019,3 +1019,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 03:22:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy hit the ground too hard whilst trying to escape Ghoul
 [28Feb2025 03:22:03.128] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
 [28Feb2025 03:22:03.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranculoCEOuy moved wrongly!
+[28Feb2025 03:25:07.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy was doomed to fall by Dark Vortex
+[28Feb2025 03:25:07.809] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[28Feb2025 03:26:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Source of Evil]
+[28Feb2025 03:28:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Ashes 'n Bones]
