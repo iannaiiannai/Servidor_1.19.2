@@ -8406,3 +8406,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 22:30:56.471] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 373 classes
 [28Feb2025 22:30:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
 [28Feb2025 22:30:56.489] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[28Feb2025 22:33:15.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 22:33:15.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 22:37:04.756] [dimthread_server_overworld/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/entity/Mob$Anonymous$da95a360dae04c4e8f46608b71c09842 (originally immersive_armors/mixin/MobEntityMixin$1)
+[28Feb2025 22:38:15.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 22:38:15.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 22:38:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Quaint Scribe]
