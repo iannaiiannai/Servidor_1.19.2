@@ -915,3 +915,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 22:30:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
 [28Feb2025 22:30:56.489] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
 [28Feb2025 22:38:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Quaint Scribe]
+[28Feb2025 22:43:28.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction

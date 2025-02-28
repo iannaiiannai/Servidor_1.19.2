@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-02-28 22:38:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-27 19:36:27 +0000"
@@ -816,6 +822,12 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-02-27 20:33:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-28 22:38:54 +0000"
     },
     "done": true
   },
@@ -2131,6 +2143,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-02-28 22:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-02-27 19:37:25 +0000"
@@ -2539,6 +2557,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-28 22:38:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-27 20:46:41 +0000"
@@ -2842,6 +2866,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-27 19:36:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-02-28 22:38:54 +0000"
     },
     "done": true
   },
