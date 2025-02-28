@@ -1026,3 +1026,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 03:45:19.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Feb2025 03:45:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [28Feb2025 03:48:11.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Suit Up]
+[28Feb2025 04:03:47.999] [dimthread_server_overworld/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72b501ed
+[28Feb2025 04:07:10.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy fell from a high place
+[28Feb2025 04:07:10.261] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
+[28Feb2025 04:10:54.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Feb2025 04:10:54.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b<--[HERE]
+[28Feb2025 04:12:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy fell from a high place
+[28Feb2025 04:12:51.259] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
