@@ -708,6 +708,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-28 23:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-27 21:14:41 +0000"
@@ -1334,6 +1340,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-28 23:19:59 +0000",
       "minecraft:windswept_hills": "2025-02-27 20:48:58 +0000",
       "minecraft:beach": "2025-02-27 19:34:05 +0000",
       "minecraft:lukewarm_ocean": "2025-02-27 19:36:30 +0000",
