@@ -8317,3 +8317,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 03:02:14.098] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_2
 [28Feb2025 03:02:14.107] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
 [28Feb2025 03:02:25.519] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[28Feb2025 03:03:05.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 03:03:05.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 03:03:38.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[28Feb2025 03:08:05.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Feb2025 03:08:05.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Feb2025 03:09:50.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [What a Deal!]
