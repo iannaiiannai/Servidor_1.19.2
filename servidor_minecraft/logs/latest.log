@@ -1023,3 +1023,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Feb2025 03:25:07.809] [Server thread/INFO] [tombstone/]: The player FranculoCEOuy has successfully been saved
 [28Feb2025 03:26:29.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Source of Evil]
 [28Feb2025 03:28:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Ashes 'n Bones]
+[28Feb2025 03:45:19.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Feb2025 03:45:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[28Feb2025 03:48:11.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranculoCEOuy has made the advancement [Suit Up]
