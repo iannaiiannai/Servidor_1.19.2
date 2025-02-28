@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 22:56:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-02-27 20:55:50 +0000"
@@ -386,6 +392,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-27 21:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-02-28 22:56:03 +0000"
     },
     "done": true
   },
@@ -639,6 +651,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-27 20:35:29 +0000",
       "minecraft:skeleton": "2025-02-27 20:35:15 +0000",
+      "minecraft:spider": "2025-02-28 22:55:19 +0000",
       "minecraft:vex": "2025-02-27 20:33:55 +0000",
       "minecraft:zombie": "2025-02-27 20:29:51 +0000",
       "minecraft:zombie_villager": "2025-02-27 20:49:49 +0000"
@@ -714,6 +727,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-02-27 20:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-02-28 22:57:51 +0000"
     },
     "done": true
   },
@@ -891,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 22:56:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-02-27 20:26:04 +0000"
@@ -1020,6 +1045,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 20:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-28 22:56:03 +0000"
     },
     "done": true
   },
@@ -1596,6 +1627,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-27 20:56:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-02-28 22:57:51 +0000"
     },
     "done": true
   },
@@ -2278,6 +2315,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-27 20:58:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-28 22:57:20 +0000"
     },
     "done": true
   },
