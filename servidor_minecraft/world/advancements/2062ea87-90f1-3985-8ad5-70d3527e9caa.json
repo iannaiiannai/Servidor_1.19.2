@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-03-01 03:54:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/sheep": {
     "criteria": {
       "has_white_wool": "2025-02-27 20:28:49 +0000"
@@ -2823,6 +2829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-01 03:54:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-01 01:01:14 +0000"
@@ -3564,6 +3576,12 @@
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-02-27 20:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-01 03:54:17 +0000"
     },
     "done": true
   },
