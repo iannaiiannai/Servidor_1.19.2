@@ -934,3 +934,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 23:18:35.294] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
 [01Mar2025 23:24:59.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Bloodthirsty]
 [01Mar2025 23:26:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [We do a little trolling...]
+[01Mar2025 23:31:40.722] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[01Mar2025 23:35:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Knowledge of Death]
+[01Mar2025 23:35:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [A Strange Grave Dust]
+[01Mar2025 23:36:48.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
+[01Mar2025 23:36:48.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
+[01Mar2025 23:37:11.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@243ccace
+[01Mar2025 23:37:11.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crester_Craft[/127.185.75.174:53785] logged in with entity id 9951 at (140.30000001192093, -28.0, 292.1721807900542)
+[01Mar2025 23:37:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft joined the game
+[01Mar2025 23:37:11.651] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
+[01Mar2025 23:38:44.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
+[01Mar2025 23:38:44.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
