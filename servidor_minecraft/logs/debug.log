@@ -8949,3 +8949,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 00:01:33.068] [Server thread/DEBUG] [twilightforest/]: Player Crester_Craft (ce274323-8aa6-3092-802f-22588944181a) respawned and received items held in storage
 [01Mar2025 00:03:15.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 00:03:15.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 00:04:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Isn't It Iron Pick]
+[01Mar2025 00:06:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Diamonds!]
+[01Mar2025 00:08:15.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 00:08:15.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 00:08:55.711] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Mar2025 00:10:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft hit the ground too hard
+[01Mar2025 00:10:48.550] [Server thread/DEBUG] [tombstone/]: A new grave of the player Crester_Craft was created at position [x:104, y:7, z:373, dim:minecraft:overworld]
+[01Mar2025 00:10:48.551] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 00:10:50.004] [Server thread/DEBUG] [twilightforest/]: Player Crester_Craft (ce274323-8aa6-3092-802f-22588944181a) respawned and received items held in storage
+[01Mar2025 00:10:51.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> xsddd
+[01Mar2025 00:12:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> Crester_Craft ya tenes diamantes?
+[01Mar2025 00:12:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> solo 6
+[01Mar2025 00:12:59.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> cheto
+[01Mar2025 00:13:02.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
+[01Mar2025 00:13:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
+[01Mar2025 00:13:15.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 00:13:15.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
