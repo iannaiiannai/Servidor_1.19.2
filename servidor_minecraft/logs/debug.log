@@ -9005,3 +9005,45 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 01:03:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Into Darkness]
 [01Mar2025 01:03:15.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 01:03:15.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 01:04:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Taking from the Dead]
+[01Mar2025 01:05:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Source of Evil]
+[01Mar2025 01:08:15.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 01:08:15.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 01:11:55.260] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
+[01Mar2025 01:11:55.268] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J4so_0 with unique ID travelersbackpack.standard_01.03.2025-01.11.55.dat
+[01Mar2025 01:11:55.270] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -684 Y: -29 Z: 422
+[01Mar2025 01:11:55.271] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-683, y:-29, z:422, dim:minecraft:overworld]
+[01Mar2025 01:11:55.274] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[01Mar2025 01:11:56.987] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[01Mar2025 01:11:56.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [The Most Useful Key]
+[01Mar2025 01:12:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [A Fast Comeback]
+[01Mar2025 01:12:07.909] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Chain Death]
+[01Mar2025 01:12:07.909] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
+[01Mar2025 01:12:07.910] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-687, y:-29, z:427, dim:minecraft:overworld]
+[01Mar2025 01:12:07.912] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[01Mar2025 01:12:08.074] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Mar2025 01:12:08.074] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[01Mar2025 01:12:08.075] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[01Mar2025 01:12:08.075] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[01Mar2025 01:12:08.075] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01Mar2025 01:12:09.218] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[01Mar2025 01:12:23.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[01Mar2025 01:13:09.859] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
+[01Mar2025 01:13:09.860] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-676, y:-27, z:428, dim:minecraft:overworld]
+[01Mar2025 01:13:09.862] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[01Mar2025 01:13:11.236] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[01Mar2025 01:13:15.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 01:13:15.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 01:14:04.258] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
+[01Mar2025 01:14:04.259] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-686, y:-29, z:423, dim:minecraft:overworld]
+[01Mar2025 01:14:04.263] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[01Mar2025 01:14:05.507] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
+[01Mar2025 01:14:28.508] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
+[01Mar2025 01:14:28.509] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player J4so_0 was created at position [x:-696, y:-29, z:425, dim:minecraft:overworld]
+[01Mar2025 01:14:28.513] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
+[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01Mar2025 01:14:29.979] [Server thread/DEBUG] [twilightforest/]: Player J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa) respawned and received items held in storage
