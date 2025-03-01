@@ -1,97 +1,908 @@
-[01Mar2025 00:00:23.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Acquire Hardware]
-[01Mar2025 00:01:25.817] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Not Today, Thank You]
-[01Mar2025 00:01:31.864] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was shot by Skeleton
-[01Mar2025 00:01:31.867] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
-[01Mar2025 00:04:16.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Isn't It Iron Pick]
-[01Mar2025 00:06:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Diamonds!]
-[01Mar2025 00:08:55.711] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
-[01Mar2025 00:10:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft hit the ground too hard
-[01Mar2025 00:10:48.551] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
-[01Mar2025 00:10:51.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> xsddd
-[01Mar2025 00:12:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> Crester_Craft ya tenes diamantes?
-[01Mar2025 00:12:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> solo 6
-[01Mar2025 00:12:59.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> cheto
-[01Mar2025 00:13:02.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
-[01Mar2025 00:13:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
-[01Mar2025 00:24:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[01Mar2025 00:24:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to J4so_0: mandame un video si estás solita
-[01Mar2025 00:25:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> voy
-[01Mar2025 00:25:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> seguis aca?
-[01Mar2025 00:34:19.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18784, l='ServerLevel[world]', x=-342.69, y=71.00, z=175.69] died, message: 'Librarian was slain by J4so_0'
-[01Mar2025 00:34:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Neighborhood Brawl]
-[01Mar2025 00:36:01.416] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
-[01Mar2025 00:36:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Knowledge raises the soul]
-[01Mar2025 00:38:02.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18791, l='ServerLevel[world]', x=-342.70, y=71.00, z=177.30] died, message: 'Librarian was slain by J4so_0'
-[01Mar2025 00:43:53.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/18157, l='ServerLevel[world]', x=-310.93, y=70.00, z=203.70] died, message: 'Fisherman was slain by J4so_0'
-[01Mar2025 00:43:53.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18243, l='ServerLevel[world]', x=-310.41, y=69.94, z=203.70] died, message: 'Unemployed was slain by J4so_0'
-[01Mar2025 00:46:53.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/18244, l='ServerLevel[world]', x=-327.01, y=71.00, z=187.70] died, message: 'Fisherman was slain by J4so_0'
-[01Mar2025 00:49:38.516] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
-[01Mar2025 00:49:51.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
-[01Mar2025 00:51:05.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 moved wrongly!
-[01Mar2025 00:52:43.309] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Not Today, Thank You]
-[01Mar2025 01:03:01.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Diamonds!]
-[01Mar2025 01:03:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Into Darkness]
-[01Mar2025 01:04:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Taking from the Dead]
-[01Mar2025 01:05:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Source of Evil]
-[01Mar2025 01:11:55.260] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
-[01Mar2025 01:11:55.268] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J4so_0 with unique ID travelersbackpack.standard_01.03.2025-01.11.55.dat
-[01Mar2025 01:11:55.270] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -684 Y: -29 Z: 422
-[01Mar2025 01:11:55.274] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
-[01Mar2025 01:11:56.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [The Most Useful Key]
-[01Mar2025 01:12:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [A Fast Comeback]
-[01Mar2025 01:12:07.909] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Chain Death]
-[01Mar2025 01:12:07.909] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
-[01Mar2025 01:12:07.912] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
-[01Mar2025 01:12:08.074] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[01Mar2025 01:12:08.074] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
-[01Mar2025 01:12:08.075] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
-[01Mar2025 01:12:08.075] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
-[01Mar2025 01:12:08.075] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[01Mar2025 01:12:23.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
-[01Mar2025 01:13:09.859] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
-[01Mar2025 01:13:09.862] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
-[01Mar2025 01:14:04.258] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
-[01Mar2025 01:14:04.263] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
-[01Mar2025 01:14:28.508] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Acolyte
-[01Mar2025 01:14:28.513] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
-[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
-[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
-[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
-[01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[01Mar2025 01:16:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [You Need a Mint]
-[01Mar2025 02:34:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Pseudo Archaeologist]
-[01Mar2025 02:39:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Iron, but dark]
-[01Mar2025 03:00:41.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
-[01Mar2025 03:00:41.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
-[01Mar2025 03:23:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Bone Crusher]
-[01Mar2025 03:31:02.959] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Dweller
-[01Mar2025 03:31:02.965] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J4so_0 with unique ID travelersbackpack.standard_01.03.2025-03.31.02.dat
-[01Mar2025 03:31:02.965] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -676 Y: -25 Z: 436
-[01Mar2025 03:31:02.967] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
-[01Mar2025 03:54:17.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Ice Bucket Challenge]
-[01Mar2025 04:06:56.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [We Need to Go Deeper]
-[01Mar2025 04:06:56.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
-[01Mar2025 04:06:56.753] [Worker-Main-426/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
-[01Mar2025 04:09:41.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
-[01Mar2025 04:09:41.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
-[01Mar2025 04:11:29.964] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d8ad56b
-[01Mar2025 04:11:29.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.246.4.24:38959] logged in with entity id 59058 at (-44.82240643727498, 62.0, -23.474527745839566)
-[01Mar2025 04:11:29.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
-[01Mar2025 04:11:29.984] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
-[01Mar2025 04:12:17.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
-[01Mar2025 04:12:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
-[01Mar2025 09:09:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[01Mar2025 09:09:20.106] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
-[01Mar2025 09:09:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Mar2025 09:09:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Mar2025 09:09:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Mar2025 09:09:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Mar2025 09:09:20.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01Mar2025 09:09:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01Mar2025 09:09:20.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[01Mar2025 09:09:20.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Mar2025 19:48:05.392] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[01Mar2025 19:48:05.396] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[01Mar2025 19:48:07.793] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[01Mar2025 19:48:07.849] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor_1.19.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[01Mar2025 19:48:08.473] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor_1.19.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[01Mar2025 19:48:08.475] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor_1.19.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[01Mar2025 19:48:08.477] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor_1.19.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[01Mar2025 19:48:08.478] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor_1.19.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[01Mar2025 19:48:08.730] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[01Mar2025 19:48:12.089] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Mar2025 19:48:12.250] [main/ERROR] [mixin/]: Mixin config arclight.mixins.json does not specify "minVersion" property
+[01Mar2025 19:48:12.312] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[01Mar2025 19:48:12.314] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[01Mar2025 19:48:12.316] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Mar2025 19:48:12.333] [main/WARN] [mixin/]: Reference map 'limitedchunks.refmap.json' for limitedchunks.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2025 19:48:12.431] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.1+mc1.19.2: 87 options available, 1 override(s) found
+[01Mar2025 19:48:12.432] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [dimthread]) to 'false'
+[01Mar2025 19:48:12.432] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[01Mar2025 19:48:12.446] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[01Mar2025 19:48:12.475] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2025 19:48:12.477] [main/WARN] [mixin/]: Reference map 'simplyswords-common-refmap.json' for simplyswords-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2025 19:48:12.478] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2025 19:48:12.511] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting malte0811/ferritecore/mixin/config/FerriteMixinConfig$LithiumSupportState
+[01Mar2025 19:48:12.531] [main/WARN] [mixin/]: Reference map 'arclight.mixins.refmap.json' for arclight.mixins.json could not be read. If this is a development environment you can ignore this message
+[01Mar2025 19:48:12.549] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/llamalad7/mixinextras/service/MixinExtrasVersion
+[01Mar2025 19:48:13.731] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[01Mar2025 19:48:13.732] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManager was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
+[01Mar2025 19:48:14.120] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER
+[01Mar2025 19:48:14.121] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/texture/TextureAtlas (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER)
+[01Mar2025 19:48:14.121] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.texture.TextureAtlas was not found fusion.mixins.json:modernfix.TextureAtlasMixinModernFix
+[01Mar2025 19:48:14.245] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01Mar2025 19:48:14.597] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/datafix/DataFixerOptimizationOption
+[01Mar2025 19:48:14.624] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[01Mar2025 19:48:14.674] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/ChatFormatting
+[01Mar2025 19:48:15.007] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.89 s after launch)
+[01Mar2025 19:48:15.082] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/Util$IdentityStrategy
+[01Mar2025 19:48:15.094] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Holder$Reference$Type
+[01Mar2025 19:48:15.161] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[01Mar2025 19:48:15.161] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[01Mar2025 19:48:15.243] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[01Mar2025 19:48:15.244] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[01Mar2025 19:48:17.406] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction
+[01Mar2025 19:48:17.409] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction$AxisDirection
+[01Mar2025 19:48:17.410] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction$Axis
+[01Mar2025 19:48:17.443] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/PushReaction
+[01Mar2025 19:48:17.513] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/BlockBehaviour$OffsetType
+[01Mar2025 19:48:17.587] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction$Plane
+[01Mar2025 19:48:17.589] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/FrontAndTop
+[01Mar2025 19:48:17.594] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/AttachFace
+[01Mar2025 19:48:17.595] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/BellAttachType
+[01Mar2025 19:48:17.596] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/WallSide
+[01Mar2025 19:48:17.597] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/RedstoneSide
+[01Mar2025 19:48:17.598] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/DoubleBlockHalf
+[01Mar2025 19:48:17.599] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/Half
+[01Mar2025 19:48:17.601] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/RailShape
+[01Mar2025 19:48:17.605] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/BedPart
+[01Mar2025 19:48:17.606] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/ChestType
+[01Mar2025 19:48:17.607] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/ComparatorMode
+[01Mar2025 19:48:17.608] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/DoorHingeSide
+[01Mar2025 19:48:17.609] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/NoteBlockInstrument
+[01Mar2025 19:48:17.612] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/PistonType
+[01Mar2025 19:48:17.612] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/SlabType
+[01Mar2025 19:48:17.616] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/StairsShape
+[01Mar2025 19:48:17.617] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/StructureMode
+[01Mar2025 19:48:17.619] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/BambooLeaves
+[01Mar2025 19:48:17.619] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/Tilt
+[01Mar2025 19:48:17.620] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/DripstoneThickness
+[01Mar2025 19:48:17.621] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/state/properties/SculkSensorPhase
+[01Mar2025 19:48:17.689] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2677 milliseconds
+[01Mar2025 19:48:17.778] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkDirection
+[01Mar2025 19:48:17.902] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/DyeColor
+[01Mar2025 19:48:18.078] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/effect/MobEffectCategory
+[01Mar2025 19:48:18.083] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/attributes/AttributeModifier$Operation
+[01Mar2025 19:48:18.203] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/PressurePlateBlock$Sensitivity
+[01Mar2025 19:48:18.377] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/MultifaceSpreader$SpreadType
+[01Mar2025 19:48:18.407] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/InteractionHand
+[01Mar2025 19:48:18.464] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/InteractionResult
+[01Mar2025 19:48:18.495] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/biome/Biome$Precipitation
+[01Mar2025 19:48:18.566] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/SkullBlock$Types
+[01Mar2025 19:48:18.923] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/WeatheringCopper$WeatherState
+[01Mar2025 19:48:18.994] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Holder$Kind
+[01Mar2025 19:48:19.110] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/Heightmap$Types
+[01Mar2025 19:48:19.111] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/Heightmap$Usage
+[01Mar2025 19:48:19.147] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/placement/CaveSurface
+[01Mar2025 19:48:19.207] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MobCategory
+[01Mar2025 19:48:19.464] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/Goal$Flag
+[01Mar2025 19:48:19.752] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Pose
+[01Mar2025 19:48:19.760] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/EquipmentSlot
+[01Mar2025 19:48:19.761] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/EquipmentSlot$Type
+[01Mar2025 19:48:20.112] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/GenerationStep$Carving
+[01Mar2025 19:48:20.138] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureSpawnOverride$BoundingBoxType
+[01Mar2025 19:48:20.143] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/GenerationStep$Decoration
+[01Mar2025 19:48:20.144] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/TerrainAdjustment
+[01Mar2025 19:48:20.155] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/pools/StructureTemplatePool$Projection
+[01Mar2025 19:48:20.178] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/MineshaftStructure$Type
+[01Mar2025 19:48:20.194] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/OceanRuinStructure$Type
+[01Mar2025 19:48:20.205] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/JigsawBlockEntity$JointType
+[01Mar2025 19:48:20.214] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/RuinedPortalPiece$VerticalPlacement
+[01Mar2025 19:48:20.224] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/placement/StructurePlacement$FrequencyReductionMethod
+[01Mar2025 19:48:20.229] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType
+[01Mar2025 19:48:20.244] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[01Mar2025 19:48:20.247] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/biome/Biome$TemperatureModifier
+[01Mar2025 19:48:20.250] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/biome/BiomeSpecialEffects$GrassColorModifier
+[01Mar2025 19:48:20.312] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$Marker$Type
+[01Mar2025 19:48:20.328] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$Mapped$Type
+[01Mar2025 19:48:20.330] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$MulOrAdd$Type
+[01Mar2025 19:48:20.330] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$TwoArgumentSimpleFunction$Type
+[01Mar2025 19:48:20.383] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$BlendOffset
+[01Mar2025 19:48:20.385] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$BlendAlpha
+[01Mar2025 19:48:20.394] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$WeirdScaledSampler$RarityValueMapper
+[01Mar2025 19:48:20.422] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[01Mar2025 19:48:20.432] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Hole
+[01Mar2025 19:48:20.434] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Steep
+[01Mar2025 19:48:20.440] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Bandlands
+[01Mar2025 19:48:20.440] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$Temperature
+[01Mar2025 19:48:20.443] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/SurfaceRules$AbovePreliminarySurface
+[01Mar2025 19:48:20.916] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/Rarity
+[01Mar2025 19:48:20.923] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/enchantment/EnchantmentCategory
+[01Mar2025 19:48:20.947] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/AbstractMinecart$Type
+[01Mar2025 19:48:20.951] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Type
+[01Mar2025 19:48:20.952] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/ArmorMaterials
+[01Mar2025 19:48:20.962] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/Tiers
+[01Mar2025 19:48:20.982] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/ChatTypeDecoration$Parameter
+[01Mar2025 19:48:21.001] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/enchantment/Enchantment$Rarity
+[01Mar2025 19:48:21.002] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/enchantment/ProtectionEnchantment$Type
+[01Mar2025 19:48:21.050] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/criteria/ObjectiveCriteria$RenderType
+[01Mar2025 19:48:21.088] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/ChunkStatus$ChunkType
+[01Mar2025 19:48:21.361] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/DensityFunctions$BeardifierMarker
+[01Mar2025 19:48:21.645] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/creativetab/CreativeTabHandler
+[01Mar2025 19:48:21.671] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Phase
+[01Mar2025 19:48:21.673] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TickEvent$Type
+[01Mar2025 19:48:21.678] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/core/ContentRegistrationFlags
+[01Mar2025 19:48:21.701] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/core/DistType
+[01Mar2025 19:48:21.705] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/easymagic/config/ServerConfig$EnchantmentHint
+[01Mar2025 19:48:21.723] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/CoreSide
+[01Mar2025 19:48:21.772] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod easymagic
+[01Mar2025 19:48:21.780] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/rechiseled/api/blocks/BlockSpecification
+[01Mar2025 19:48:21.781] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/rechiseled/api/blocks/BlockModelType
+[01Mar2025 19:48:21.823] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/network/MessageDirection
+[01Mar2025 19:48:21.872] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/biome/v1/BiomeLoadingPhase
+[01Mar2025 19:48:21.877] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/Commands$CommandSelection
+[01Mar2025 19:48:21.908] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[01Mar2025 19:48:21.924] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[01Mar2025 19:48:21.937] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszlibrary/events/base/Priority
+[01Mar2025 19:48:21.965] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/loot/LootContext$EntityTarget
+[01Mar2025 19:48:21.975] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/world/BiomeModifier$Phase
+[01Mar2025 19:48:22.047] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/balm/api/event/TickPhase
+[01Mar2025 19:48:22.062] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/balm/api/event/EventPriority
+[01Mar2025 19:48:22.170] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/config/DimensionalWarp
+[01Mar2025 19:48:22.171] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/config/WorldGenStyle
+[01Mar2025 19:48:22.171] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/worldgen/namegen/NameGenerationMode
+[01Mar2025 19:48:22.438] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/sounds/SoundSource
+[01Mar2025 19:48:22.587] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[01Mar2025 19:48:22.594] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Fluid
+[01Mar2025 19:48:22.613] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MobSpawnType
+[01Mar2025 19:48:22.631] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/capabilities/CapabilityManager
+[01Mar2025 19:48:22.658] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/blueprint/common/world/storage/tracking/SyncType
+[01Mar2025 19:48:22.660] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/blueprint/common/world/storage/tracking/TrackedDataManager
+[01Mar2025 19:48:22.830] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[01Mar2025 19:48:22.830] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[01Mar2025 19:48:22.836] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/platform/RegHelper$VariantType
+[01Mar2025 19:48:22.841] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszsdifficulty/items/CustomArmorMaterial
+[01Mar2025 19:48:22.845] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszsdifficulty/items/CustomItemTier
+[01Mar2025 19:48:22.854] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/platform/PlatformHelper$Env
+[01Mar2025 19:48:22.862] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/configs/CommonConfigs$DpsMode
+[01Mar2025 19:48:22.866] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/platform/configs/ConfigType
+[01Mar2025 19:48:22.904] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/configs/ClientConfigs$SkinType
+[01Mar2025 19:48:22.925] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszsdifficulty/items/SoulJar$BonusType
+[01Mar2025 19:48:22.939] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/GameRules$Category
+[01Mar2025 19:48:22.995] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/progwml6/ironchest/common/item/IronChestsUpgradeType
+[01Mar2025 19:48:22.996] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/progwml6/ironchest/common/block/IronChestsTypes
+[01Mar2025 19:48:23.041] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszsdifficulty/undeadarmy/UndeadArmy$Direction
+[01Mar2025 19:48:23.051] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszsdifficulty/undeadarmy/UndeadArmy$Phase$State
+[01Mar2025 19:48:23.146] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/platform/network/NetworkDir
+[01Mar2025 19:48:23.190] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/resourcefulconfig/common/config/EntryType
+[01Mar2025 19:48:23.244] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/resourcefullib/common/networking/base/NetworkDirection
+[01Mar2025 19:48:23.296] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/TargetHelper$Relation
+[01Mar2025 19:48:23.353] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/Platform$Type
+[01Mar2025 19:48:23.547] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/core/registry/RegistryEntryAcceptor$Registry
+[01Mar2025 19:48:23.843] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/client/CuriosClientConfig$Client$ButtonCorner
+[01Mar2025 19:48:23.892] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cgessinger/creaturesandbeasts/util/SporelingType$SporelingHostility
+[01Mar2025 19:48:23.928] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cgessinger/creaturesandbeasts/config/library/Config$ReloadStage
+[01Mar2025 19:48:23.980] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/Rotation
+[01Mar2025 19:48:24.040] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/SpellRarity
+[01Mar2025 19:48:24.217] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/packs/PackType
+[01Mar2025 19:48:24.247] [modloading-worker-0/INFO] [io.github.steveplays28.noisium.Noisium/]: Loading Noisium.
+[01Mar2025 19:48:24.256] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/cooldown/CooldownType
+[01Mar2025 19:48:24.262] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$FogDensity
+[01Mar2025 19:48:24.263] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/block/GraveModel
+[01Mar2025 19:48:24.264] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[01Mar2025 19:48:24.265] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/block/BlockGraveMarble$MarbleType
+[01Mar2025 19:48:24.265] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[01Mar2025 19:48:24.266] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$GraveSkinRule
+[01Mar2025 19:48:24.268] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$AutoEquipRule
+[01Mar2025 19:48:24.269] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$MarkerType
+[01Mar2025 19:48:24.270] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Client$FontRule
+[01Mar2025 19:48:24.284] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/architectury/utils/Env
+[01Mar2025 19:48:24.294] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/config/ConfigTombstone$Enchantments$MagicSiphonOnPlayerRule
+[01Mar2025 19:48:24.336] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/gui/overlays/ManaBarOverlay$Display
+[01Mar2025 19:48:24.337] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/gui/overlays/ManaBarOverlay$Anchor
+[01Mar2025 19:48:24.338] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/gui/overlays/SpellBarOverlay$Anchor
+[01Mar2025 19:48:24.338] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/gui/overlays/RecastOverlay$Anchor
+[01Mar2025 19:48:24.349] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/UpdaterHandler$PoolType
+[01Mar2025 19:48:24.350] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Mar2025 19:48:24.351] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/architectury/networking/NetworkManager$Side
+[01Mar2025 19:48:24.364] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/supermartijn642/connectedglass/CGGlassType
+[01Mar2025 19:48:24.400] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[01Mar2025 19:48:24.407] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[01Mar2025 19:48:24.430] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/BreakMode
+[01Mar2025 19:48:24.433] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/DetectionMode
+[01Mar2025 19:48:24.434] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/MaxSizeAction
+[01Mar2025 19:48:24.434] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/BreakOrder
+[01Mar2025 19:48:24.437] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/AdjacentStopMode
+[01Mar2025 19:48:24.439] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/DamageRounding
+[01Mar2025 19:48:24.443] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/SneakMode
+[01Mar2025 19:48:24.444] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/config/enums/NotificationMode
+[01Mar2025 19:48:24.460] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/wrapper/DirectionCompat
+[01Mar2025 19:48:24.465] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/utils/Events
+[01Mar2025 19:48:24.517] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/majruszlibrary/animations/AnimationsDef$Easing
+[01Mar2025 19:48:24.706] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/fluids/SoftFluid$TintMethod
+[01Mar2025 19:48:24.795] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/SCSounds
+[01Mar2025 19:48:24.808] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/block/GongBlock$GongPart
+[01Mar2025 19:48:24.809] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/block/RakedSandBlock$RakedSandShape
+[01Mar2025 19:48:24.893] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/finallion/graveyard/blockentities/enums/SarcophagusPart
+[01Mar2025 19:48:24.987] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/blueprint/common/block/VerticalSlabBlock$VerticalSlabType
+[01Mar2025 19:48:24.997] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/FireJetVariant
+[01Mar2025 19:48:25.001] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/HugeLilypadPiece
+[01Mar2025 19:48:25.003] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/NagastoneVariant
+[01Mar2025 19:48:25.004] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/Diagonals
+[01Mar2025 19:48:25.005] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/Mirror
+[01Mar2025 19:48:25.015] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/BlockLoggingEnum
+[01Mar2025 19:48:25.018] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/block/AbstractLightableBlock$Lighting
+[01Mar2025 19:48:25.032] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/TowerDeviceVariant
+[01Mar2025 19:48:25.079] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/BossVariant
+[01Mar2025 19:48:25.080] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/BossVariant$TrophyType
+[01Mar2025 19:48:25.087] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/BanisterShape
+[01Mar2025 19:48:25.092] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/HollowLogVariants$Horizontal
+[01Mar2025 19:48:25.095] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/HollowLogVariants$Climbable
+[01Mar2025 19:48:25.296] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blocks/KeypadBarrelBlock$LidFacing
+[01Mar2025 19:48:25.452] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/block/SoulType
+[01Mar2025 19:48:25.542] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/TimeHelper$SpecialEvent
+[01Mar2025 19:48:25.590] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/math/OctahedralGroup
+[01Mar2025 19:48:25.594] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/math/SymmetricGroup3
+[01Mar2025 19:48:25.654] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/umvuthana/MaskType
+[01Mar2025 19:48:26.415] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/item/ItemEcholocator$EchoType
+[01Mar2025 19:48:26.430] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/items/UpgradeItem$Upgrade
+[01Mar2025 19:48:26.439] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/TwilightArmorMaterial
+[01Mar2025 19:48:26.478] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting biomesoplenty/common/entity/BoatBOP$ModelType
+[01Mar2025 19:48:26.504] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cgessinger/creaturesandbeasts/init/CNBArmorMaterials
+[01Mar2025 19:48:26.506] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cgessinger/creaturesandbeasts/init/CNBItemTiers
+[01Mar2025 19:48:26.512] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/ModuleType
+[01Mar2025 19:48:26.516] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/misc/PageGroup
+[01Mar2025 19:48:26.518] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/util/RegisterItemBlock$SCItemGroup
+[01Mar2025 19:48:26.555] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/item/weapons/ExtendedWeaponTiers
+[01Mar2025 19:48:26.560] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/item/armor/UpgradeTypes
+[01Mar2025 19:48:26.565] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/item/armor/ExtendedArmorMaterials
+[01Mar2025 19:48:26.591] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemAdvancement$IconType
+[01Mar2025 19:48:26.592] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemScrollBuff$SpellBuff
+[01Mar2025 19:48:26.610] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/DamageType
+[01Mar2025 19:48:26.644] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/registry/ModTriggers$WololoColor
+[01Mar2025 19:48:26.646] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/sweenus/simplyswords/item/ModToolMaterial
+[01Mar2025 19:48:26.660] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/arclight/init/ArmorMaterialsInit
+[01Mar2025 19:48:26.961] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/pathfinder/BlockPathTypes
+[01Mar2025 19:48:27.017] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/Difficulty
+[01Mar2025 19:48:27.038] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/SpawnPlacements$Type
+[01Mar2025 19:48:27.137] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/SpawnPlacementRegisterEvent$Operation
+[01Mar2025 19:48:27.175] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/config/biome/BiomeEntryType
+[01Mar2025 19:48:27.235] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[01Mar2025 19:48:27.240] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[01Mar2025 19:48:27.245] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdServer
+[01Mar2025 19:48:27.250] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/config/GiveMode
+[01Mar2025 19:48:27.257] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[01Mar2025 19:48:27.322] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/client/OpenScreen$DataType
+[01Mar2025 19:48:27.349] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastSource
+[01Mar2025 19:48:27.354] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/api/type/capability/ICurio$DropRule
+[01Mar2025 19:48:27.354] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/common/network/server/sync/SPacketSyncStack$HandlerType
+[01Mar2025 19:48:27.359] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[01Mar2025 19:48:27.361] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/CastingType
+[01Mar2025 19:48:27.390] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/util/StandingOrWallType
+[01Mar2025 19:48:27.392] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blockentities/BlockChangeDetectorBlockEntity$DetectionMode
+[01Mar2025 19:48:27.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[01Mar2025 19:48:27.396] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blockentities/IMSBlockEntity$IMSTargetingMode
+[01Mar2025 19:48:27.399] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[01Mar2025 19:48:27.402] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/server/SyncProjector$DataType
+[01Mar2025 19:48:27.408] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/blockentities/RiftStabilizerBlockEntity$TeleportationType
+[01Mar2025 19:48:27.413] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/network/server/SyncSSSSettingsOnServer$DataType
+[01Mar2025 19:48:27.428] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/network/ClientboundCastErrorMessage$ErrorType
+[01Mar2025 19:48:27.512] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[01Mar2025 19:48:27.512] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[01Mar2025 19:48:27.513] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[01Mar2025 19:48:27.513] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[01Mar2025 19:48:27.535] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaiderType
+[01Mar2025 19:48:27.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 4.3.3 Target: null
+[01Mar2025 19:48:27.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[01Mar2025 19:48:27.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: AHEAD Current: 1.9.9-backport.1 Target: null
+[01Mar2025 19:48:27.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[01Mar2025 19:48:27.638] [main/INFO] [moonlight/]: Initialized color sets in 64ms
+[01Mar2025 19:48:27.678] [main/INFO] [moonlight/]: Initialized color sets in 39ms
+[01Mar2025 19:48:27.749] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/PacketFlow
+[01Mar2025 19:48:27.755] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/RegionType
+[01Mar2025 19:48:27.759] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Mar2025 19:48:27.759] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Mar2025 19:48:27.759] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[01Mar2025 19:48:27.759] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[01Mar2025 19:48:27.760] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[01Mar2025 19:48:27.760] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01Mar2025 19:48:27.760] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01Mar2025 19:48:27.760] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleCategory
+[01Mar2025 19:48:27.763] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleStage
+[01Mar2025 19:48:27.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.2 Target: null
+[01Mar2025 19:48:27.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01Mar2025 19:48:27.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[01Mar2025 19:48:27.882] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[01Mar2025 19:48:27.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: AHEAD Current: 1.19.2-1.5.9 Target: null
+[01Mar2025 19:48:27.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/AdditionalStructures.json
+[01Mar2025 19:48:27.910] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/compatibility/SupportMods
+[01Mar2025 19:48:27.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalstructures] Found status: UP_TO_DATE Current: 4.0.4 Target: null
+[01Mar2025 19:48:27.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[01Mar2025 19:48:27.964] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/curios/api/SlotTypePreset
+[01Mar2025 19:48:27.964] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[01Mar2025 19:48:28.069] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[01Mar2025 19:48:28.090] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[01Mar2025 19:48:28.092] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01Mar2025 19:48:28.094] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/BrewingStandProvider
+[01Mar2025 19:48:28.097] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/BeehiveProvider
+[01Mar2025 19:48:28.102] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/CommandBlockProvider
+[01Mar2025 19:48:28.103] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/JukeboxProvider
+[01Mar2025 19:48:28.104] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/LecternProvider
+[01Mar2025 19:48:28.105] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/RedstoneProvider
+[01Mar2025 19:48:28.106] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/FurnaceProvider
+[01Mar2025 19:48:28.107] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/AnimalOwnerProvider
+[01Mar2025 19:48:28.108] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/PotionEffectsProvider
+[01Mar2025 19:48:28.109] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/MobGrowthProvider
+[01Mar2025 19:48:28.110] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/MobBreedingProvider
+[01Mar2025 19:48:28.111] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/vanilla/ChickenEggProvider
+[01Mar2025 19:48:28.111] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01Mar2025 19:48:28.112] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/ItemStorageProvider
+[01Mar2025 19:48:28.114] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/EntityItemStorageProvider
+[01Mar2025 19:48:28.115] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/FluidStorageProvider
+[01Mar2025 19:48:28.117] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/EntityFluidStorageProvider
+[01Mar2025 19:48:28.117] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/EnergyStorageProvider
+[01Mar2025 19:48:28.119] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/EntityEnergyStorageProvider
+[01Mar2025 19:48:28.119] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/ProgressProvider
+[01Mar2025 19:48:28.120] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/universal/EntityProgressProvider
+[01Mar2025 19:48:28.121] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01Mar2025 19:48:28.122] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/core/RegistryNameProvider$Mode
+[01Mar2025 19:48:28.123] [modloading-worker-0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting snownee/jade/addon/core/ObjectNameProvider
+[01Mar2025 19:48:28.124] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[01Mar2025 19:48:28.125] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[01Mar2025 19:48:28.323] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/embeddedt/modernfix/util/BakeReason
+[01Mar2025 19:48:28.396] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/GameType
+[01Mar2025 19:48:28.499] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Mar2025 19:48:28.693] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[01Mar2025 19:48:28.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.19.2-1.4.5 Target: null
+[01Mar2025 19:48:28.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Mar2025 19:48:29.148] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.20
+[01Mar2025 19:48:29.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[01Mar2025 19:48:29.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1518 Target: null
+[01Mar2025 19:48:29.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[01Mar2025 19:48:29.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: UP_TO_DATE Current: 1.19.2-2.3.7 Target: null
+[01Mar2025 19:48:29.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[01Mar2025 19:48:29.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[01Mar2025 19:48:29.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01Mar2025 19:48:29.322] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$ValueResult
+[01Mar2025 19:48:29.323] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/nbt/StreamTagVisitor$EntryResult
+[01Mar2025 19:48:29.380] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/datafix/DataFixTypes
+[01Mar2025 19:48:29.412] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Servidor_1.19.2/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23263!/assets/.mcassetsroot' uses unexpected schema
+[01Mar2025 19:48:29.412] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Servidor_1.19.2/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23263!/data/.mcassetsroot' uses unexpected schema
+[01Mar2025 19:48:29.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[01Mar2025 19:48:29.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[01Mar2025 19:48:29.472] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/packs/repository/Pack$Position
+[01Mar2025 19:48:29.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[01Mar2025 19:48:29.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01Mar2025 19:48:29.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.3.7 Target: null
+[01Mar2025 19:48:29.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/blob/mc1.19.2/dev/updates.json
+[01Mar2025 19:48:29.557] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/packs/repository/PackCompatibility
+[01Mar2025 19:48:29.718] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23264!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23264!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[01Mar2025 19:48:29.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[01Mar2025 19:48:29.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.4.3 Target: null
+[01Mar2025 19:48:29.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[01Mar2025 19:48:30.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[01Mar2025 19:48:30.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[01Mar2025 19:48:30.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.5-backport.1 Target: null
+[01Mar2025 19:48:34.209] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFBiomes
+[01Mar2025 19:48:34.219] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFKeyBiomes
+[01Mar2025 19:48:34.222] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFCompanionBiomes
+[01Mar2025 19:48:34.223] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/vanillalegacy/ZoomLayer
+[01Mar2025 19:48:34.224] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFBiomeStabilize
+[01Mar2025 19:48:34.224] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFThornBorder
+[01Mar2025 19:48:34.226] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFStream
+[01Mar2025 19:48:34.226] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/vanillalegacy/SmoothLayer
+[01Mar2025 19:48:34.227] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/layer/GenLayerTFRiverMix
+[01Mar2025 19:48:34.400] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/CommandBuildContext$MissingTagAccessPolicy
+[01Mar2025 19:48:34.551] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/ClickEvent$Action
+[01Mar2025 19:48:34.725] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/TombstoneCommand$CommandName
+[01Mar2025 19:48:34.729] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBBind$SubCommand
+[01Mar2025 19:48:34.732] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBKnowledge$SubCommand
+[01Mar2025 19:48:34.735] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBRecovery$SubCommand
+[01Mar2025 19:48:34.741] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBSiege$SubCommand
+[01Mar2025 19:48:34.744] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/command/CommandTBTeleport$SubCommand
+[01Mar2025 19:48:34.765] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[01Mar2025 19:48:35.042] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/quadrillum/quadrillum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/quadrillum/quadrillum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.044] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/banglum/banglum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/banglum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/banglum/halberd_scythe (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/banglum/banglum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/banglum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/banglum/halberd_scythe (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.045] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/osmium/osmium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/osmium/osmium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/osmium/osmium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/osmium/osmium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.045] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/steel/steel_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/steel/steel_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/steel/steel_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/steel/steel_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.046] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/runite/runite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/runite/runite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/runite/runite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/runite/runite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.048] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/palladium/palladium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/palladium/palladium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/palladium/palladium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/palladium/palladium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.052] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [arclight:moonlight_jellyball (from arclight-2.0.10.jar)] as it is missing following references: arclight:moonlight_jellyball (from arclight-2.0.10.jar)
+[01Mar2025 19:48:35.053] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [arclight:moonlight_jellyball (from arclight-2.0.10.jar)] as it is missing following references: arclight:moonlight_jellyball (from arclight-2.0.10.jar)
+[01Mar2025 19:48:35.055] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/celestium/celestium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/celestium/celestium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/celestium/celestium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/celestium/celestium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.058] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/aquarium/aquarium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/aquarium/aquarium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/aquarium/aquarium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/aquarium/aquarium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.062] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [mythicmetals:mythicmetals_compat/carmot/carmot_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_katana (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_sai (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_spear (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), mythicmetals:mythicmetals_compat/carmot/carmot_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: mythicmetals:mythicmetals_compat/carmot/carmot_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	mythicmetals:mythicmetals_compat/carmot/carmot_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.068] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.069] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/copper/copper_longsword (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/copper/copper_longsword (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.073] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.078] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/star_platinum/star_platinum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/star_platinum/star_platinum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.083] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/stormyx/stormyx_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/stormyx/stormyx_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/stormyx/stormyx_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/stormyx/stormyx_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.087] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/adamantite/adamantite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/adamantite/adamantite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/adamantite/adamantite_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/adamantite/adamantite_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.088] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/mythril/mythril_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/mythril/mythril_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/mythril/mythril_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/mythril/mythril_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.090] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/kyber/kyber_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/kyber/kyber_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/kyber/kyber_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/kyber/kyber_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.093] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/prometheum/prometheum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/prometheum/prometheum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.096] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/metallurgium/metallurgium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/metallurgium/metallurgium_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.097] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/bronze/bronze_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/bronze/bronze_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/bronze/bronze_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/bronze/bronze_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.099] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), simplyswords:mythicmetals_compat/orichalcum/orichalcum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)] as it is missing following references: simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_katana (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_longsword (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_rapier (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_sai (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_spear (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_twinblade (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_warglaive (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_greathammer (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_greataxe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_chakram (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_scythe (from simplyswords-forge-1.47.0-1.19.2.jar), 
+	simplyswords:mythicmetals_compat/orichalcum/orichalcum_halberd (from simplyswords-forge-1.47.0-1.19.2.jar)
+[01Mar2025 19:48:35.239] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/arguments/EntityAnchorArgument$Anchor
+[01Mar2025 19:48:35.796] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[01Mar2025 19:48:35.811] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet: com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+[01Mar2025 19:48:35.831] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[01Mar2025 19:48:35.840] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[01Mar2025 19:48:35.849] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[01Mar2025 19:48:35.879] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/FireworkRocketItem$Shape
+[01Mar2025 19:48:35.892] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[01Mar2025 19:48:35.894] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[01Mar2025 19:48:35.896] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[01Mar2025 19:48:35.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[01Mar2025 19:48:35.904] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[01Mar2025 19:48:35.920] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/blueprint/core/util/modification/selection/ResourceSelectorSerializers
+[01Mar2025 19:48:35.948] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/ItemStack$TooltipPart
+[01Mar2025 19:48:35.950] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 5 modifier groups
+[01Mar2025 19:48:35.978] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/loot/functions/CopyNameFunction$NameSource
+[01Mar2025 19:48:35.982] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/storage/loot/functions/CopyNbtFunction$MergeStrategy
+[01Mar2025 19:48:36.044] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/saveddata/maps/MapDecoration$Type
+[01Mar2025 19:48:36.057] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table simplyswords:grant_book_on_first_join: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+[01Mar2025 19:48:36.092] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table arclight:entities/jelly: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'arclight:moonlight_jellyball'
+[01Mar2025 19:48:36.223] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table arclight:entities/scorpion: com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'arclight:scorpion_scale'
+[01Mar2025 19:48:36.512] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[01Mar2025 19:48:36.512] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[01Mar2025 19:48:36.524] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[01Mar2025 19:48:36.529] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/advancements/FrameType
+[01Mar2025 19:48:36.567] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement majruszsdifficulty:recipes/misc/enderium_upgrade_smithing_template: Unknown item id 'majruszsdifficulty:enderium_upgrade_smithing_template'
+[01Mar2025 19:48:36.737] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3296 advancements
+[01Mar2025 19:48:36.743] [main/INFO] [rechiseled/]: Loaded 77 chiseling recipes
+[01Mar2025 19:48:36.743] [main/INFO] [Dungeon Crawl/]: Loading data...
+[01Mar2025 19:48:36.754] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/model/DungeonModelBlockType
+[01Mar2025 19:48:36.961] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/DungeonLayerType
+[01Mar2025 19:48:37.077] [main/INFO] [Dungeon Crawl/]: Done.
+[01Mar2025 19:48:37.080] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Structure Repaletter Manager has loaded 0 repaletters
+[01Mar2025 19:48:37.085] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Modded Biome Slice Manager has loaded 1 slices
+[01Mar2025 19:48:37.086] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[01Mar2025 19:48:37.089] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/data/custom/stalactites/entry/Stalactite$HollowHillType
+[01Mar2025 19:48:37.089] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[01Mar2025 19:48:37.090] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[01Mar2025 19:48:37.109] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/nyuppo/config/SheepHornSettings$SheepHornColour
+[01Mar2025 19:48:37.150] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/TagsUpdatedEvent$UpdateCause
+[01Mar2025 19:48:37.155] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: Failed to parse level-type minecraft:hard, defaulting to minecraft:normal
+[01Mar2025 19:48:37.367] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 10 milliseconds
+[01Mar2025 19:48:37.370] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[01Mar2025 19:48:37.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[01Mar2025 19:48:37.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Mar2025 19:48:37.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Mar2025 19:48:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Mar2025 19:48:37.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Mar2025 19:48:37.773] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Mar2025 19:48:37.844] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Mar2025 19:48:37.845] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Mar2025 19:48:37.845] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Mar2025 19:48:37.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Mar2025 19:48:37.874] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[01Mar2025 19:48:38.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/common/world/StructureModifier$Phase
+[01Mar2025 19:48:38.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/worldgen/noise/ZoomLayer
+[01Mar2025 19:48:38.542] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Mar2025 19:48:38.543] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Mar2025 19:48:38.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Mar2025 19:48:38.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/ModCheck$Confidence
+[01Mar2025 19:48:38.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/VillageSiege$State
+[01Mar2025 19:48:38.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/ticks/TickPriority
+[01Mar2025 19:48:38.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/storage/IOWorker$Priority
+[01Mar2025 19:48:38.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/entity/Visibility
+[01Mar2025 19:48:38.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/entity/PersistentEntitySectionManager$ChunkLoadStatus
+[01Mar2025 19:48:38.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/level/ChunkHolder$FullChunkStatus
+[01Mar2025 19:48:38.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/WorldgenRandom$Algorithm
+[01Mar2025 19:48:39.458] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/LightLayer
+[01Mar2025 19:48:39.526] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/spawner/CustomVillageSiege$SiegeState
+[01Mar2025 19:48:39.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/TamableType
+[01Mar2025 19:48:39.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/blueprint/core/endimator/PlayableEndimation$LoopType
+[01Mar2025 19:48:39.565] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/control/MoveControl$Operation
+[01Mar2025 19:48:39.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[01Mar2025 19:48:39.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[01Mar2025 19:48:39.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[01Mar2025 19:48:39.664] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityVoidWorm$AttackMode
+[01Mar2025 19:48:39.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossEvent$BossBarColor
+[01Mar2025 19:48:39.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/BossEvent$BossBarOverlay
+[01Mar2025 19:48:39.670] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundBossEventPacket$OperationType
+[01Mar2025 19:48:39.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/veroxuniverse/arclight/entity/custom/AngelEntity$AttackPhase
+[01Mar2025 19:48:39.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/builder/ILoopType$EDefaultLoopTypes
+[01Mar2025 19:48:39.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[01Mar2025 19:48:39.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/dummmmmmy/common/DummyMobType
+[01Mar2025 19:48:39.734] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[01Mar2025 19:48:39.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/PlayState
+[01Mar2025 19:48:39.749] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/AnimationState
+[01Mar2025 19:48:39.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib3/core/easing/EasingType
+[01Mar2025 19:48:39.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/player/SpinAttackType
+[01Mar2025 19:48:39.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/HumanoidArm
+[01Mar2025 19:48:39.766] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
+[01Mar2025 19:48:39.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/dead_king_boss/DeadKingBoss$AttackType
+[01Mar2025 19:48:39.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[01Mar2025 19:48:39.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[01Mar2025 19:48:39.808] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[01Mar2025 19:48:39.809] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[01Mar2025 19:48:39.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[01Mar2025 19:48:39.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[01Mar2025 19:48:39.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[01Mar2025 19:48:39.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/MushroomCow$MushroomType
+[01Mar2025 19:48:39.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[01Mar2025 19:48:39.927] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[01Mar2025 19:48:39.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[01Mar2025 19:48:39.950] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[01Mar2025 19:48:40.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/geomancy/EntityGeomancyBase$GeomancyTier
+[01Mar2025 19:48:40.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/EntityFallingBlock$EnumFallingBlockMode
+[01Mar2025 19:48:40.027] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[01Mar2025 19:48:40.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[01Mar2025 19:48:40.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[01Mar2025 19:48:40.048] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/geforcemods/securitycraft/entity/sentry/Sentry$SentryMode
+[01Mar2025 19:48:40.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/HydraHeadContainer$State
+[01Mar2025 19:48:40.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/KnightPhantom$Formation
+[01Mar2025 19:48:40.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/ai/goal/NagaMovementPattern$MovementState
+[01Mar2025 19:48:40.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/entity/boss/SnowQueen$Phase
+[01Mar2025 19:48:40.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[01Mar2025 19:48:40.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Mar2025 19:48:40.341] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/EmptyBlockGetter
+[01Mar2025 19:48:40.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/Direction8
+[01Mar2025 19:48:40.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ca/spottedleaf/starlight/common/light/StarLightEngine$AxisDirection
+[01Mar2025 19:48:40.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/poi/PoiManager$Occupancy
+[01Mar2025 19:48:40.815] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/SupportType
+[01Mar2025 19:48:40.819] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/core/AxisCycle
+[01Mar2025 19:48:40.843] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/pathfinder/PathComputationType
+[01Mar2025 19:48:42.182] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Mar2025 19:48:42.182] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Mar2025 19:48:42.183] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Mar2025 19:48:42.183] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Mar2025 19:48:42.183] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Mar2025 19:48:42.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/level/ThreadedLevelLightEngine$TaskType
+[01Mar2025 19:48:42.275] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: limitedchunks.json
+[01Mar2025 19:48:42.518] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[01Mar2025 19:48:42.621] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[01Mar2025 19:48:43.120] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[01Mar2025 19:48:43.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[01Mar2025 19:48:43.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[01Mar2025 19:48:43.620] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[01Mar2025 19:48:43.649] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3530 ms
+[01Mar2025 19:48:43.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.794s)! For help, type "help"
+[01Mar2025 19:48:43.710] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Mar2025 19:48:43.714] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[01Mar2025 19:48:43.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/api/WeaponAttributes$Condition
+[01Mar2025 19:48:43.728] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/api/WeaponAttributes$HitBoxShape
+[01Mar2025 19:48:43.889] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 143515 bytes (in 15 string chunks with the size of 10000)
+[01Mar2025 19:48:43.890] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[01Mar2025 19:48:43.891] [Server thread/WARN] [ModernFix/]: Dedicated server took 41.777 seconds to load
+[01Mar2025 19:48:44.005] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[01Mar2025 19:49:12.466] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/abdelaziz/pluto/common/network/VarintByteDecoder$DecodeResult
+[01Mar2025 19:49:12.475] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[01Mar2025 19:49:12.500] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[01Mar2025 19:49:12.533] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundPlayerInfoPacket$Action
+[01Mar2025 19:49:12.537] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[01Mar2025 19:49:12.556] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[01Mar2025 19:49:12.572] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[01Mar2025 19:49:12.573] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/ChatVisiblity
+[01Mar2025 19:49:12.577] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[01Mar2025 19:49:12.580] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[01Mar2025 19:49:12.589] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[01Mar2025 19:49:12.590] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[01Mar2025 19:49:12.592] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/RecipeBookType
+[01Mar2025 19:49:12.595] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[01Mar2025 19:49:12.596] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[01Mar2025 19:49:12.600] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[01Mar2025 19:49:12.603] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[01Mar2025 19:49:13.121] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[01Mar2025 19:49:13.183] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[01Mar2025 19:49:15.349] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/NativeCodeLoader$Status
+[01Mar2025 19:49:15.356] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/velocitypowered/natives/util/BufferPreference
+[01Mar2025 19:49:15.523] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@80e8e05
+[01Mar2025 19:49:15.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.42.128.204:45241] logged in with entity id 1035 at (-336.0364737423756, 71.0, 179.0718934641081)
+[01Mar2025 19:49:15.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[01Mar2025 19:49:15.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[01Mar2025 19:49:15.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$RemovalReason
+[01Mar2025 19:49:15.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[01Mar2025 19:49:15.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundPlayerPositionPacket$RelativeArgument
+[01Mar2025 19:49:15.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[01Mar2025 19:49:15.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[01Mar2025 19:49:15.735] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[01Mar2025 19:49:15.742] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[01Mar2025 19:49:16.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MoverType
+[01Mar2025 19:49:16.170] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$MovementEmission
+[01Mar2025 19:49:16.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$CollisionRule
+[01Mar2025 19:49:16.300] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
+[01Mar2025 19:49:16.464] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[01Mar2025 19:49:16.642] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[01Mar2025 19:49:16.887] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[01Mar2025 19:49:17.093] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[01Mar2025 19:49:37.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
+[01Mar2025 19:49:56.752] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[01Mar2025 19:51:20.172] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[01Mar2025 19:51:29.035] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[01Mar2025 19:51:30.312] [dimthread_server_the_nether/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[01Mar2025 19:52:09.675] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[01Mar2025 19:53:14.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/tree/AbortedResult
+[01Mar2025 19:53:20.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[01Mar2025 19:53:46.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: You logged in from another location
+[01Mar2025 19:53:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[01Mar2025 19:53:46.474] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1bd170d2
+[01Mar2025 19:53:46.545] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Mar2025 19:53:46.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.42.128.204:32981] logged in with entity id 1934 at (-50.66997017771069, 60.0, -5.483623814100002)
+[01Mar2025 19:53:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[01Mar2025 19:53:46.586] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[01Mar2025 19:57:49.042] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[01Mar2025 19:57:49.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Mar2025 19:57:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> -45 69 20
+[01Mar2025 19:57:55.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> -45 69 20 portalnether
