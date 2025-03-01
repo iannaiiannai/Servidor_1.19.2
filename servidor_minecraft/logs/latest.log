@@ -24,3 +24,8 @@
 [01Mar2025 00:38:02.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18791, l='ServerLevel[world]', x=-342.70, y=71.00, z=177.30] died, message: 'Librarian was slain by J4so_0'
 [01Mar2025 00:43:53.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/18157, l='ServerLevel[world]', x=-310.93, y=70.00, z=203.70] died, message: 'Fisherman was slain by J4so_0'
 [01Mar2025 00:43:53.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18243, l='ServerLevel[world]', x=-310.41, y=69.94, z=203.70] died, message: 'Unemployed was slain by J4so_0'
+[01Mar2025 00:46:53.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/18244, l='ServerLevel[world]', x=-327.01, y=71.00, z=187.70] died, message: 'Fisherman was slain by J4so_0'
+[01Mar2025 00:49:38.516] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[01Mar2025 00:49:51.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[01Mar2025 00:51:05.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 moved wrongly!
+[01Mar2025 00:52:43.309] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Not Today, Thank You]

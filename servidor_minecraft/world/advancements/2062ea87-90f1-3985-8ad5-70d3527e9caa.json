@@ -1021,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-01 00:52:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-02-27 21:14:41 +0000"
