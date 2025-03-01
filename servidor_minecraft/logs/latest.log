@@ -64,3 +64,8 @@
 [01Mar2025 02:39:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Iron, but dark]
 [01Mar2025 03:00:41.952] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [01Mar2025 03:00:41.953] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[01Mar2025 03:23:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [Bone Crusher]
+[01Mar2025 03:31:02.959] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 was slain by Cave Dweller
+[01Mar2025 03:31:02.965] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J4so_0 with unique ID travelersbackpack.standard_01.03.2025-03.31.02.dat
+[01Mar2025 03:31:02.965] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -676 Y: -25 Z: 436
+[01Mar2025 03:31:02.967] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
