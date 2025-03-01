@@ -8211,3 +8211,58 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 20:07:29.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [01Mar2025 20:08:05.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=18, z=32} BlockPos{x=-61, y=15, z=33}
 [01Mar2025 20:08:05.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=18, z=32} BlockPos{x=-61, y=15, z=33}
+[01Mar2025 20:08:36.166] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[01Mar2025 20:08:36.167] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[01Mar2025 20:08:36.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[01Mar2025 20:08:36.169] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[01Mar2025 20:08:36.192] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[01Mar2025 20:08:36.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[01Mar2025 20:08:36.395] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[01Mar2025 20:08:36.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[01Mar2025 20:08:36.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[01Mar2025 20:08:36.398] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[01Mar2025 20:08:36.400] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[01Mar2025 20:08:36.449] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[01Mar2025 20:08:36.475] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[01Mar2025 20:08:36.476] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[01Mar2025 20:08:36.476] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[01Mar2025 20:08:36.477] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[01Mar2025 20:08:36.478] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[01Mar2025 20:08:36.478] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[01Mar2025 20:08:36.479] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[01Mar2025 20:08:36.479] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[01Mar2025 20:08:36.480] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[01Mar2025 20:08:36.699] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[01Mar2025 20:08:43.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 20:08:43.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:13:43.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 20:13:43.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:15:43.144] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[01Mar2025 20:16:13.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[01Mar2025 20:16:13.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[01Mar2025 20:16:13.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[01Mar2025 20:16:13.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[01Mar2025 20:16:13.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[01Mar2025 20:16:13.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[01Mar2025 20:16:13.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[01Mar2025 20:16:13.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[01Mar2025 20:16:13.247] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[01Mar2025 20:16:13.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[01Mar2025 20:16:13.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[01Mar2025 20:16:13.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[01Mar2025 20:16:13.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[01Mar2025 20:16:13.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[01Mar2025 20:16:13.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[01Mar2025 20:16:13.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_02
+[01Mar2025 20:16:13.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_03
+[01Mar2025 20:16:13.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[01Mar2025 20:16:13.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[01Mar2025 20:16:13.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[01Mar2025 20:16:13.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[01Mar2025 20:16:13.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[01Mar2025 20:16:14.503] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/tree/TreePartType
+[01Mar2025 20:16:14.537] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[01Mar2025 20:16:15.915] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[01Mar2025 20:16:16.409] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[01Mar2025 20:16:16.909] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[01Mar2025 20:16:17.613] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
