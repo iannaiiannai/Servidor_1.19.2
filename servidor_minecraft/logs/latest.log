@@ -17,3 +17,10 @@
 [01Mar2025 00:24:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to J4so_0: mandame un video si estás solita
 [01Mar2025 00:25:01.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> voy
 [01Mar2025 00:25:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> seguis aca?
+[01Mar2025 00:34:19.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18784, l='ServerLevel[world]', x=-342.69, y=71.00, z=175.69] died, message: 'Librarian was slain by J4so_0'
+[01Mar2025 00:34:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Neighborhood Brawl]
+[01Mar2025 00:36:01.416] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[01Mar2025 00:36:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Knowledge raises the soul]
+[01Mar2025 00:38:02.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18791, l='ServerLevel[world]', x=-342.70, y=71.00, z=177.30] died, message: 'Librarian was slain by J4so_0'
+[01Mar2025 00:43:53.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/18157, l='ServerLevel[world]', x=-310.93, y=70.00, z=203.70] died, message: 'Fisherman was slain by J4so_0'
+[01Mar2025 00:43:53.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18243, l='ServerLevel[world]', x=-310.41, y=69.94, z=203.70] died, message: 'Unemployed was slain by J4so_0'
