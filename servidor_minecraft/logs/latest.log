@@ -932,3 +932,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 23:18:33.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [01Mar2025 23:18:33.178] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
 [01Mar2025 23:18:35.294] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[01Mar2025 23:24:59.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Bloodthirsty]
+[01Mar2025 23:26:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [We do a little trolling...]

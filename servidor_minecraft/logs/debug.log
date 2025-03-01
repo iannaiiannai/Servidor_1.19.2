@@ -8555,3 +8555,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 23:18:35.294] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
 [01Mar2025 23:18:43.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 23:18:43.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 23:19:47.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_base_2
+[01Mar2025 23:19:47.649] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[01Mar2025 23:19:47.652] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[01Mar2025 23:19:47.654] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[01Mar2025 23:19:47.656] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[01Mar2025 23:19:47.660] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[01Mar2025 23:19:47.664] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[01Mar2025 23:19:47.666] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/labyrinth_01
+[01Mar2025 23:19:47.674] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[01Mar2025 23:20:55.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_1
+[01Mar2025 23:21:04.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[01Mar2025 23:23:43.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 23:23:43.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 23:24:59.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Bloodthirsty]
+[01Mar2025 23:26:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [We do a little trolling...]
+[01Mar2025 23:28:43.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 23:28:43.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
