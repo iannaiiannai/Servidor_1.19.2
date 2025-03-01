@@ -906,3 +906,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 19:57:49.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [01Mar2025 19:57:49.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> -45 69 20
 [01Mar2025 19:57:55.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4so_0> -45 69 20 portalnether
+[01Mar2025 19:59:12.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=38, z=10} BlockPos{x=-84, y=37, z=8}
+[01Mar2025 19:59:12.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=38, z=10} BlockPos{x=-84, y=37, z=8}
+[01Mar2025 20:00:27.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Hidden in the Depths]
+[01Mar2025 20:00:31.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=15, z=-1} BlockPos{x=-76, y=14, z=0}
+[01Mar2025 20:00:59.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=16, z=-9} BlockPos{x=-64, y=15, z=-9}
+[01Mar2025 20:04:47.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=16, z=5} BlockPos{x=-51, y=15, z=5}
+[01Mar2025 20:07:29.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[01Mar2025 20:08:05.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=18, z=32} BlockPos{x=-61, y=15, z=33}
+[01Mar2025 20:08:05.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=18, z=32} BlockPos{x=-61, y=15, z=33}
