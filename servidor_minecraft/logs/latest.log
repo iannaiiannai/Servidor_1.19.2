@@ -945,3 +945,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 23:37:11.651] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
 [01Mar2025 23:38:44.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
 [01Mar2025 23:38:44.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
+[01Mar2025 23:40:23.146] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30120767
+[01Mar2025 23:40:23.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crester_Craft[/127.185.75.174:58377] logged in with entity id 10064 at (134.69999998807907, -24.0, 295.1759151595125)
+[01Mar2025 23:40:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft joined the game
+[01Mar2025 23:40:23.195] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
+[01Mar2025 23:40:26.245] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Savanna Enderman
+[01Mar2025 23:40:26.248] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[01Mar2025 23:40:26.262] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:44:36.344] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[01Mar2025 23:46:38.346] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Dread Hound
+[01Mar2025 23:46:38.354] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
