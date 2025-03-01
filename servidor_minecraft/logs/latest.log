@@ -81,3 +81,17 @@
 [01Mar2025 04:11:29.984] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
 [01Mar2025 04:12:17.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
 [01Mar2025 04:12:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[01Mar2025 09:09:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Mar2025 09:09:20.106] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[01Mar2025 09:09:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Mar2025 09:09:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Mar2025 09:09:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Mar2025 09:09:20.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Mar2025 09:09:20.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Mar2025 09:09:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Mar2025 09:09:20.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 09:09:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Mar2025 09:09:20.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
