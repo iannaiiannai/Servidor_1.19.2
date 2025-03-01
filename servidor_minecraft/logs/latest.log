@@ -920,3 +920,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 20:34:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has completed the challenge [Cover Me in Debris]
 [01Mar2025 20:36:12.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
 [01Mar2025 20:36:12.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[01Mar2025 22:54:36.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Mar2025 22:54:36.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ns<--[HERE]
