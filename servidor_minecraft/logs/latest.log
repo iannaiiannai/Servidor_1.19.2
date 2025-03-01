@@ -70,3 +70,14 @@
 [01Mar2025 03:31:02.965] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -676 Y: -25 Z: 436
 [01Mar2025 03:31:02.967] [Server thread/INFO] [tombstone/]: The player J4so_0 has successfully been saved
 [01Mar2025 03:54:17.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Ice Bucket Challenge]
+[01Mar2025 04:06:56.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [We Need to Go Deeper]
+[01Mar2025 04:06:56.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[01Mar2025 04:06:56.753] [Worker-Main-426/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[01Mar2025 04:09:41.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[01Mar2025 04:09:41.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
+[01Mar2025 04:11:29.964] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d8ad56b
+[01Mar2025 04:11:29.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4so_0[/127.246.4.24:38959] logged in with entity id 59058 at (-44.82240643727498, 62.0, -23.474527745839566)
+[01Mar2025 04:11:29.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 joined the game
+[01Mar2025 04:11:29.984] [Server thread/INFO] [Jade/]: Syncing config to J4so_0 (2062ea87-90f1-3985-8ad5-70d3527e9caa)
+[01Mar2025 04:12:17.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[01Mar2025 04:12:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
