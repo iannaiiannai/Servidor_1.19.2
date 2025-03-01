@@ -8270,3 +8270,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 20:18:43.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Mar2025 20:23:43.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 20:23:43.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:28:43.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 20:28:43.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:33:21.435] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[01Mar2025 20:33:21.442] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[01Mar2025 20:33:21.444] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_stollen_1
+[01Mar2025 20:33:21.451] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_02
+[01Mar2025 20:33:21.468] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:maya_temple
+[01Mar2025 20:33:43.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 20:33:43.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 20:34:43.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has completed the challenge [Cover Me in Debris]
+[01Mar2025 20:36:12.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[01Mar2025 20:36:12.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game
