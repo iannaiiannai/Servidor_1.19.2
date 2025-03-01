@@ -61,3 +61,4 @@
 [01Mar2025 01:14:28.675] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [01Mar2025 01:16:54.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has reached the goal [You Need a Mint]
 [01Mar2025 02:34:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Pseudo Archaeologist]
+[01Mar2025 02:39:58.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Iron, but dark]

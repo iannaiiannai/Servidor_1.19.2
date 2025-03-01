@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-01 02:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-27 20:26:44 +0000"
@@ -455,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-03-01 02:35:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-27 19:36:27 +0000"
@@ -631,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-01 01:03:01 +0000"
@@ -799,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-27 20:35:29 +0000",
@@ -814,6 +838,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-02-28 23:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-01 02:34:50 +0000"
     },
     "done": true
   },
@@ -916,6 +946,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 20:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-03-01 02:41:03 +0000"
     },
     "done": true
   },
@@ -1042,6 +1078,12 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-02-27 20:33:54 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-03-01 02:34:30 +0000"
     },
     "done": true
   },
@@ -1321,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-03-01 00:58:41 +0000"
@@ -1426,6 +1474,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-27 21:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
     },
     "done": true
   },
@@ -1573,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-01 02:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-01 00:58:53 +0000"
@@ -1669,6 +1729,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-01 00:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
     },
     "done": true
   },
@@ -1894,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-01 02:34:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-02-27 20:26:32 +0000"
@@ -1903,6 +1975,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-27 21:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
     },
     "done": true
   },
@@ -3471,9 +3549,21 @@
     },
     "done": true
   },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-01 02:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-02-27 20:58:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-03-01 02:36:35 +0000"
     },
     "done": true
   },
@@ -3540,6 +3630,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-27 20:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-03-01 02:41:04 +0000"
     },
     "done": true
   },
@@ -3642,6 +3738,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-01 01:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-03-01 02:41:03 +0000"
     },
     "done": true
   },
