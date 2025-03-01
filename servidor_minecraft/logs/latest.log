@@ -955,3 +955,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 23:44:36.344] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [01Mar2025 23:46:38.346] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Dread Hound
 [01Mar2025 23:46:38.354] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:50:32.096] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was shot by Skeleton
+[01Mar2025 23:50:32.098] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:53:08.048] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was killed by Necromancer's magic missile
+[01Mar2025 23:53:08.052] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:55:20.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[01Mar2025 23:55:20.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Crester_Craft'/11861, l='ServerLevel[world]', x=66.56, y=-22.00, z=184.12] died: Crester_Craft was slain by Crester_Craft
+[01Mar2025 23:55:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Cover Me with Diamonds]
+[01Mar2025 23:56:46.096] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Zombie
+[01Mar2025 23:56:46.099] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:59:15.946] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult

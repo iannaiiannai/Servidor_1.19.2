@@ -8987,3 +8987,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Mar2025 23:46:41.984] [Server thread/DEBUG] [twilightforest/]: Player Crester_Craft (ce274323-8aa6-3092-802f-22588944181a) respawned and received items held in storage
 [01Mar2025 23:48:43.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 23:48:43.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 23:50:32.096] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was shot by Skeleton
+[01Mar2025 23:50:32.097] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Crester_Craft was created at position [x:41, y:-35, z:143, dim:minecraft:overworld]
+[01Mar2025 23:50:32.098] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:50:36.142] [Server thread/DEBUG] [twilightforest/]: Player Crester_Craft (ce274323-8aa6-3092-802f-22588944181a) respawned and received items held in storage
+[01Mar2025 23:53:08.048] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was killed by Necromancer's magic missile
+[01Mar2025 23:53:08.049] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Crester_Craft was created at position [x:43, y:-34, z:134, dim:minecraft:overworld]
+[01Mar2025 23:53:08.052] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:53:12.272] [Server thread/DEBUG] [twilightforest/]: Player Crester_Craft (ce274323-8aa6-3092-802f-22588944181a) respawned and received items held in storage
+[01Mar2025 23:53:43.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 23:53:43.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 23:55:20.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[01Mar2025 23:55:20.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Crester_Craft'/11861, l='ServerLevel[world]', x=66.56, y=-22.00, z=184.12] died: Crester_Craft was slain by Crester_Craft
+[01Mar2025 23:55:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Cover Me with Diamonds]
+[01Mar2025 23:56:46.096] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Zombie
+[01Mar2025 23:56:46.097] [dimthread_server_overworld/DEBUG] [tombstone/]: A new grave of the player Crester_Craft was created at position [x:-26, y:-22, z:142, dim:minecraft:overworld]
+[01Mar2025 23:56:46.099] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[01Mar2025 23:56:51.004] [Server thread/DEBUG] [twilightforest/]: Player Crester_Craft (ce274323-8aa6-3092-802f-22588944181a) respawned and received items held in storage
+[01Mar2025 23:58:43.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 23:58:43.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 23:59:15.946] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
