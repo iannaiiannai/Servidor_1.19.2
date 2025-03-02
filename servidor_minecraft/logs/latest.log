@@ -83,3 +83,18 @@
 [02Mar2025 03:03:07.674] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
 [02Mar2025 03:03:38.696] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20860, l='ServerLevel[world]', x=103.50, y=47.00, z=29.50]
 [02Mar2025 03:09:22.746] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22234, l='ServerLevel[world]', x=102.50, y=47.00, z=35.50]
+[02Mar2025 03:12:13.845] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[02Mar2025 03:12:15.350] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe was slain by Corpse Fly
+[02Mar2025 03:12:15.353] [Server thread/INFO] [tombstone/]: The player Dorix_exe has successfully been saved
+[02Mar2025 03:15:05.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Magic Writing]
+[02Mar2025 03:17:36.151] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe was slain by Cave Dweller
+[02Mar2025 03:17:36.182] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dorix_exe with unique ID travelersbackpack.standard_02.03.2025-03.17.36.dat
+[02Mar2025 03:17:36.184] [dimthread_server_overworld/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 251 Y: 21 Z: 196
+[02Mar2025 03:17:36.200] [Server thread/INFO] [tombstone/]: The player Dorix_exe has successfully been saved
+[02Mar2025 03:17:39.627] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=426, y=-25, z=-337} but found not block entity block Block{minecraft:air} at location
+[02Mar2025 03:17:39.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=426, y=-25, z=-337}
+[02Mar2025 03:17:41.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dorix_exe lost connection: Disconnected
+[02Mar2025 03:17:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe left the game
+[02Mar2025 03:19:48.423] [Worker-Main-567/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
+[02Mar2025 03:19:48.423] [Worker-Main-567/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
+[02Mar2025 03:19:48.423] [Worker-Main-567/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}

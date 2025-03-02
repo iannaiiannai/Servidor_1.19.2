@@ -307,6 +307,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-03-02 03:12:14 +0000",
       "rotten_flesh": "2025-03-02 02:44:26 +0000"
     },
     "done": false
@@ -696,9 +697,16 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-03-02 03:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-02 03:08:17 +0000",
+      "minecraft:spider": "2025-03-02 03:15:25 +0000",
       "minecraft:zombie": "2025-03-02 02:43:40 +0000"
     },
     "done": false
@@ -814,6 +822,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-02 03:07:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-03-02 03:16:04 +0000"
     },
     "done": true
   },
@@ -1401,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-02 03:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-02 02:42:33 +0000"
@@ -1488,6 +1508,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-03-02 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-03-02 03:11:19 +0000"
     },
     "done": true
   },
