@@ -302,7 +302,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-01 23:27:29 +0000",
+      "apple": "2025-03-02 02:44:01 +0000",
       "potato": "2025-03-01 00:10:09 +0000",
+      "bread": "2025-03-02 02:40:52 +0000",
       "salmon": "2025-02-28 23:57:43 +0000"
     },
     "done": false
@@ -415,9 +417,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-02 02:45:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-28 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-02 02:39:40 +0000"
     },
     "done": true
   },
@@ -579,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-02 02:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-01 23:22:06 +0000"
@@ -699,6 +719,7 @@
       "minecraft:spider": "2025-03-02 00:03:12 +0000",
       "minecraft:cave_spider": "2025-03-02 00:04:50 +0000",
       "minecraft:zombie": "2025-02-28 23:57:33 +0000",
+      "minecraft:drowned": "2025-03-02 02:47:43 +0000",
       "minecraft:zombie_villager": "2025-03-01 23:37:18 +0000"
     },
     "done": false
@@ -787,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 02:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-01 23:22:06 +0000"
@@ -868,6 +895,18 @@
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-03-02 00:03:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 02:39:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 02:45:51 +0000"
     },
     "done": true
   },
@@ -997,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-02 02:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-01 00:01:25 +0000"
@@ -1120,6 +1165,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-01 23:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-02 02:39:40 +0000"
     },
     "done": true
   },
@@ -1332,6 +1383,7 @@
       "minecraft:windswept_hills": "2025-03-01 23:21:38 +0000",
       "minecraft:beach": "2025-02-28 23:51:55 +0000",
       "minecraft:lukewarm_ocean": "2025-03-01 23:47:53 +0000",
+      "minecraft:river": "2025-03-02 02:46:40 +0000",
       "minecraft:flower_forest": "2025-03-01 23:21:34 +0000",
       "minecraft:savanna": "2025-02-28 23:52:04 +0000"
     },
@@ -1490,6 +1542,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-03-01 23:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-02 02:39:52 +0000"
     },
     "done": true
   },

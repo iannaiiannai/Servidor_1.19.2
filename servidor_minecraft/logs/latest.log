@@ -23,3 +23,29 @@
 [02Mar2025 02:38:57.994] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
 [02Mar2025 02:38:58.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dorix_exe lost connection: Disconnected
 [02Mar2025 02:38:58.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe left the game
+[02Mar2025 02:40:01.000] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59606a99
+[02Mar2025 02:40:01.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dorix_exe[/127.174.99.39:50977] logged in with entity id 16280 at (203.07968441690946, 70.0, 155.87121453256378)
+[02Mar2025 02:40:01.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe joined the game
+[02Mar2025 02:40:01.048] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
+[02Mar2025 02:40:07.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> holas
+[02Mar2025 02:42:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Stone Age]
+[02Mar2025 02:42:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> estas en el spawn?
+[02Mar2025 02:42:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Getting an Upgrade]
+[02Mar2025 02:43:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Monster Hunter]
+[02Mar2025 02:44:07.599] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Is this... blood?]
+[02Mar2025 02:44:11.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [A Strange Grave Dust]
+[02Mar2025 02:44:48.998] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe was slain by Corpse Fly
+[02Mar2025 02:44:49.000] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Your First Grave]
+[02Mar2025 02:44:49.001] [Server thread/INFO] [tombstone/]: The player Dorix_exe has successfully been saved
+[02Mar2025 02:45:45.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Iron Maiden]
+[02Mar2025 02:45:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Ashes 'n Bones]
+[02Mar2025 02:47:32.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[02Mar2025 02:49:00.798] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe was slain by Cave Dweller
+[02Mar2025 02:49:00.802] [Server thread/INFO] [tombstone/]: The player Dorix_exe has successfully been saved
+[02Mar2025 02:49:46.297] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Skelewag
+[02Mar2025 02:49:46.302] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 02:49:46.456] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 02:49:46.456] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[02Mar2025 02:49:46.457] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[02Mar2025 02:49:46.457] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[02Mar2025 02:49:46.457] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
