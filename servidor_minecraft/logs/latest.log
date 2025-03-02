@@ -892,3 +892,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Mar2025 18:40:49.183] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
 [02Mar2025 18:47:23.984] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [02Mar2025 18:52:15.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[02Mar2025 18:56:24.269] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/raksrinana/fallingtree/common/tree/AbortedResult
+[02Mar2025 19:02:51.981] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[02Mar2025 19:03:21.225] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[02Mar2025 19:04:51.628] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[02Mar2025 19:04:55.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[02Mar2025 19:04:55.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [What Was That!?]
