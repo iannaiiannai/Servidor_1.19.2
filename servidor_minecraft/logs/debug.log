@@ -10618,3 +10618,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Mar2025 03:19:48.423] [Worker-Main-567/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-338}
 [02Mar2025 03:19:48.423] [Worker-Main-567/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-340}
 [02Mar2025 03:19:48.423] [Worker-Main-567/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-379, y=25, z=-343}
+[02Mar2025 03:22:33.216] [Worker-Main-566/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[02Mar2025 03:22:33.227] [Worker-Main-566/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[02Mar2025 03:22:44.442] [Worker-Main-511/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=28, z=-353}
+[02Mar2025 03:22:44.443] [Worker-Main-511/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-210, y=31, z=-363}
+[02Mar2025 03:22:44.453] [Worker-Main-580/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-339}
+[02Mar2025 03:22:44.454] [Worker-Main-580/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=32, z=-338}
+[02Mar2025 03:22:44.559] [Worker-Main-576/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_crystal
+[02Mar2025 03:22:45.666] [Worker-Main-511/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=26, z=-355}
+[02Mar2025 03:22:45.666] [Worker-Main-511/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-207, y=37, z=-354}
+[02Mar2025 03:23:43.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 03:23:43.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 03:27:01.468] [Worker-Main-572/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[02Mar2025 03:27:03.669] [Worker-Main-512/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[02Mar2025 03:27:10.537] [Worker-Main-573/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_4
+[02Mar2025 03:27:10.549] [Worker-Main-573/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_1
+[02Mar2025 03:27:10.561] [Worker-Main-573/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_2
+[02Mar2025 03:27:10.568] [Worker-Main-573/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[02Mar2025 03:27:10.575] [Worker-Main-573/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_3
+[02Mar2025 03:27:10.582] [Worker-Main-573/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:farm_2
+[02Mar2025 03:27:10.855] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-216, y=28, z=-367}
+[02Mar2025 03:27:10.855] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-219, y=31, z=-366}
+[02Mar2025 03:27:10.937] [Worker-Main-511/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=26, z=-365}
+[02Mar2025 03:27:11.218] [Worker-Main-566/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_4
+[02Mar2025 03:27:11.225] [Worker-Main-566/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_2
+[02Mar2025 03:27:11.233] [Worker-Main-566/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_3
+[02Mar2025 03:27:11.240] [Worker-Main-566/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:ice_floes_1
+[02Mar2025 03:27:11.907] [Worker-Main-580/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[02Mar2025 03:27:11.908] [Worker-Main-580/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Mar2025 03:27:11.951] [Worker-Main-568/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
+[02Mar2025 03:27:11.959] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[02Mar2025 03:27:12.256] [Worker-Main-580/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_3
+[02Mar2025 03:27:12.268] [Worker-Main-580/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_1
+[02Mar2025 03:27:12.281] [Worker-Main-580/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:camp_2
+[02Mar2025 03:28:43.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 03:28:43.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
