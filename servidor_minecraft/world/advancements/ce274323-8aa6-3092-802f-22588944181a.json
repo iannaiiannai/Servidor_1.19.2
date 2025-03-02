@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-02 03:16:39 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-01 23:52:10 +0000"
@@ -370,7 +382,12 @@
       "scrubland": "2025-03-01 00:05:53 +0000",
       "bayou": "2025-02-28 23:56:06 +0000",
       "old_growth_woodland": "2025-03-02 03:10:04 +0000",
-      "mediterranean_forest": "2025-03-01 00:08:55 +0000"
+      "maple_woods": "2025-03-02 03:41:43 +0000",
+      "lavender_forest": "2025-03-02 03:37:27 +0000",
+      "mediterranean_forest": "2025-03-01 00:08:55 +0000",
+      "spider_nest": "2025-03-02 03:38:00 +0000",
+      "seasonal_forest": "2025-03-02 03:38:43 +0000",
+      "lavender_field": "2025-03-02 03:36:53 +0000"
     },
     "done": false
   },
@@ -613,6 +630,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/horse": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-03-02 00:03:16 +0000"
@@ -790,6 +813,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-02 03:16:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 03:43:50 +0000"
     },
     "done": true
   },
@@ -991,7 +1020,9 @@
       "minecraft:beach": "2025-02-28 23:51:55 +0000",
       "minecraft:lukewarm_ocean": "2025-03-01 23:47:53 +0000",
       "minecraft:river": "2025-03-02 02:46:40 +0000",
+      "minecraft:jungle": "2025-03-02 03:35:48 +0000",
       "minecraft:flower_forest": "2025-03-01 23:21:34 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-02 03:38:35 +0000",
       "minecraft:savanna": "2025-02-28 23:52:04 +0000"
     },
     "done": false
@@ -1077,6 +1108,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-01 23:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
     },
     "done": true
   },
@@ -1368,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-02 03:33:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-02-28 23:58:56 +0000"
@@ -1392,6 +1435,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-02 03:34:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-03-01 00:00:23 +0000"
@@ -1413,6 +1462,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-03-01 00:00:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 03:44:27 +0000"
     },
     "done": true
   },
@@ -1445,9 +1500,11 @@
       "cooked_porkchop": "2025-03-01 23:27:29 +0000",
       "cooked_mutton": "2025-03-02 03:14:51 +0000",
       "cooked_beef": "2025-03-02 03:10:22 +0000",
+      "porkchop": "2025-03-02 03:41:20 +0000",
       "tropical_fish": "2025-03-02 03:09:35 +0000",
       "apple": "2025-03-02 02:44:01 +0000",
       "potato": "2025-03-01 00:10:09 +0000",
+      "mutton": "2025-03-02 03:30:24 +0000",
       "bread": "2025-03-02 02:40:52 +0000",
       "salmon": "2025-02-28 23:57:43 +0000"
     },
@@ -1540,6 +1597,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-03-02 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
     },
     "done": true
   },
@@ -1744,6 +1807,18 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-28 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-03-02 03:43:43 +0000"
     },
     "done": true
   },
@@ -2203,6 +2278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-02 03:41:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-02-28 23:52:14 +0000"
@@ -2374,6 +2455,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-01 00:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-02 03:33:40 +0000"
     },
     "done": true
   },

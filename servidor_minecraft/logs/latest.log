@@ -111,3 +111,28 @@
 [02Mar2025 03:27:11.908] [Worker-Main-580/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [02Mar2025 03:27:11.951] [Worker-Main-568/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=31, z=-358}
 [02Mar2025 03:27:11.959] [Worker-Main-576/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=36, z=-361}
+[02Mar2025 03:33:59.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[02Mar2025 03:34:12.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has reached the goal [I see clearly now]
+[02Mar2025 03:37:15.897] [Worker-Main-572/WARN] [ModernFix/]: The namespace graveyard contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Mar2025 03:37:15.897] [Worker-Main-572/INFO] [ModernFix/]: Instantiating Mojang DFU
+[02Mar2025 03:37:16.136] [Worker-Main-572/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[02Mar2025 03:37:23.592] [Worker-Main-511/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[02Mar2025 03:38:38.867] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Mar2025 03:38:38.867] [Worker-Main-572/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Mar2025 03:38:42.800] [Worker-Main-580/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[02Mar2025 03:39:03.717] [Worker-Main-566/WARN] [ModernFix/]: The namespace additionalstructures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Mar2025 03:42:12.595] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft was slain by Ravager
+[02Mar2025 03:42:12.599] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:43:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft drowned
+[02Mar2025 03:43:42.454] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:43:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [The Most Useful Key]
+[02Mar2025 03:43:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has reached the goal [A Fast Comeback]
+[02Mar2025 03:44:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has reached the goal [Chain Death]
+[02Mar2025 03:44:27.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft drowned
+[02Mar2025 03:44:27.605] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:45:27.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft drowned
+[02Mar2025 03:45:27.503] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:46:41.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft fell from a high place
+[02Mar2025 03:46:41.747] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:47:25.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft discovered the floor was lava
+[02Mar2025 03:47:25.997] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
