@@ -136,3 +136,7 @@
 [02Mar2025 03:46:41.747] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
 [02Mar2025 03:47:25.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft discovered the floor was lava
 [02Mar2025 03:47:25.997] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:50:56.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft hit the ground too hard
+[02Mar2025 03:50:56.750] [Server thread/INFO] [tombstone/]: The player Crester_Craft has successfully been saved
+[02Mar2025 03:51:01.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
+[02Mar2025 03:51:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
