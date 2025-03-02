@@ -899,3 +899,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Mar2025 19:04:55.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [02Mar2025 19:04:55.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [What Was That!?]
 [02Mar2025 19:12:23.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 has made the advancement [Stay dead]
+[02Mar2025 19:50:23.679] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[02Mar2025 19:52:43.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4so_0 lost connection: Disconnected
+[02Mar2025 19:52:43.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4so_0 left the game

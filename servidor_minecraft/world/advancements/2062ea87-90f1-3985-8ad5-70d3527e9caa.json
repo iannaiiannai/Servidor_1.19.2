@@ -952,6 +952,7 @@
       "minecraft:spider": "2025-02-28 22:55:19 +0000",
       "minecraft:witch": "2025-03-02 19:38:00 +0000",
       "minecraft:husk": "2025-03-02 19:26:31 +0000",
+      "minecraft:cave_spider": "2025-03-02 19:45:17 +0000",
       "minecraft:piglin": "2025-03-01 04:08:45 +0000",
       "minecraft:stray": "2025-02-28 23:23:37 +0000",
       "minecraft:vex": "2025-02-27 20:33:55 +0000",
@@ -2031,6 +2032,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bat_smithing": {
+    "criteria": {
+      "has_bat": "2025-03-02 19:41:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-28 22:58:24 +0000"
@@ -2716,6 +2723,7 @@
       "apple": "2025-02-27 22:31:12 +0000",
       "pumpkin_pie": "2025-02-27 22:58:51 +0000",
       "bread": "2025-02-27 20:50:09 +0000",
+      "golden_apple": "2025-03-02 19:45:43 +0000",
       "golden_carrot": "2025-02-28 23:10:38 +0000"
     },
     "done": false
