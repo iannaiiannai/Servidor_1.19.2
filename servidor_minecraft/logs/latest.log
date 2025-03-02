@@ -49,3 +49,28 @@
 [02Mar2025 02:49:46.457] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
 [02Mar2025 02:49:46.457] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
 [02Mar2025 02:49:46.457] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[02Mar2025 02:50:06.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Knowledge of Death]
+[02Mar2025 02:50:06.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has reached the goal [Here They Come]
+[02Mar2025 02:50:06.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Jaws]
+[02Mar2025 02:52:07.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Your First Receptacle]
+[02Mar2025 02:53:09.144] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[02Mar2025 02:53:09.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Knowledge raises the soul]
+[02Mar2025 02:54:47.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[02Mar2025 02:56:21.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Acquire Hardware]
+[02Mar2025 02:56:31.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Isn't It Iron Pick]
+[02Mar2025 02:57:16.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Suit Up]
+[02Mar2025 02:58:17.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dorix_exe lost connection: Disconnected
+[02Mar2025 02:58:17.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe left the game
+[02Mar2025 02:58:25.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63a83ade
+[02Mar2025 02:58:25.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dorix_exe[/127.174.99.39:47349] logged in with entity id 19479 at (245.66237949621558, 21.381158196642996, 169.7275006985811)
+[02Mar2025 02:58:25.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe joined the game
+[02Mar2025 02:58:25.949] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
+[02Mar2025 02:58:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe tried to swim in lava
+[02Mar2025 02:58:30.402] [Server thread/INFO] [tombstone/]: The player Dorix_exe has successfully been saved
+[02Mar2025 02:58:32.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dorix_exe lost connection: Disconnected
+[02Mar2025 02:58:32.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe left the game
+[02Mar2025 02:58:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Crester_Craft> XD
+[02Mar2025 03:00:04.149] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68decab9
+[02Mar2025 03:00:04.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dorix_exe[/127.174.99.39:37359] logged in with entity id 19860 at (245.66237949621558, 21.0, 169.7275006985811)
+[02Mar2025 03:00:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe joined the game
+[02Mar2025 03:00:04.174] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
