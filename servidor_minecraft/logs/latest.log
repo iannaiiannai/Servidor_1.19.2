@@ -2,3 +2,9 @@
 [02Mar2025 00:16:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Suit Up]
 [02Mar2025 00:17:32.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
 [02Mar2025 00:17:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
+[02Mar2025 00:21:41.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16115a57
+[02Mar2025 00:21:41.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crester_Craft[/127.185.75.174:56367] logged in with entity id 14602 at (32.2561059235821, -11.0, 160.30000001192093)
+[02Mar2025 00:21:41.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft joined the game
+[02Mar2025 00:21:41.443] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
+[02Mar2025 00:24:25.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
+[02Mar2025 00:24:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
