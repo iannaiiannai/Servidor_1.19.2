@@ -8,3 +8,5 @@
 [02Mar2025 00:21:41.443] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
 [02Mar2025 00:24:25.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
 [02Mar2025 00:24:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
+[02Mar2025 01:56:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Mar2025 01:56:53.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
