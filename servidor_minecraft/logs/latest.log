@@ -10,3 +10,16 @@
 [02Mar2025 00:24:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
 [02Mar2025 01:56:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Mar2025 01:56:53.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[02Mar2025 02:36:40.144] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39e98878
+[02Mar2025 02:36:40.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dorix_exe[/127.174.99.39:44703] logged in with entity id 15167 at (122.5, 65.0, 184.5)
+[02Mar2025 02:36:40.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe joined the game
+[02Mar2025 02:36:40.228] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
+[02Mar2025 02:37:10.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has made the advancement [Alex's Mobs]
+[02Mar2025 02:37:46.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=77, z=185} BlockPos{x=218, y=77, z=186}
+[02Mar2025 02:38:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe has reached the goal [Flowers of the Savanna]
+[02Mar2025 02:38:57.950] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5470bda6
+[02Mar2025 02:38:57.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Crester_Craft[/127.185.75.174:53965] logged in with entity id 15665 at (6.070262077229509, -9.0, 212.4750718072212)
+[02Mar2025 02:38:57.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft joined the game
+[02Mar2025 02:38:57.994] [Server thread/INFO] [Jade/]: Syncing config to Crester_Craft (ce274323-8aa6-3092-802f-22588944181a)
+[02Mar2025 02:38:58.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dorix_exe lost connection: Disconnected
+[02Mar2025 02:38:58.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe left the game
