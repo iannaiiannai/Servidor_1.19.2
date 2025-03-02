@@ -74,3 +74,12 @@
 [02Mar2025 03:00:04.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dorix_exe[/127.174.99.39:37359] logged in with entity id 19860 at (245.66237949621558, 21.0, 169.7275006985811)
 [02Mar2025 03:00:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe joined the game
 [02Mar2025 03:00:04.174] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
+[02Mar2025 03:00:54.845] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20528, l='ServerLevel[world]', x=103.50, y=46.00, z=33.50]
+[02Mar2025 03:01:04.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dorix_exe lost connection: Disconnected
+[02Mar2025 03:01:04.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe left the game
+[02Mar2025 03:03:07.647] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b9ab6d4
+[02Mar2025 03:03:07.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dorix_exe[/127.174.99.39:48453] logged in with entity id 20612 at (246.77241247919267, 57.94348352596213, 96.8601226301302)
+[02Mar2025 03:03:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dorix_exe joined the game
+[02Mar2025 03:03:07.674] [Server thread/INFO] [Jade/]: Syncing config to Dorix_exe (163eeec6-f532-36ac-b671-08d4cc64d781)
+[02Mar2025 03:03:38.696] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20860, l='ServerLevel[world]', x=103.50, y=47.00, z=29.50]
+[02Mar2025 03:09:22.746] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/22234, l='ServerLevel[world]', x=102.50, y=47.00, z=35.50]
