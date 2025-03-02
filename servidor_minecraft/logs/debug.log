@@ -9012,3 +9012,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Mar2025 00:03:55.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Tools of the Trade]
 [02Mar2025 00:08:43.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Mar2025 00:08:43.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 00:13:43.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 00:13:43.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Mar2025 00:16:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft has made the advancement [Suit Up]
+[02Mar2025 00:17:32.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Crester_Craft lost connection: Disconnected
+[02Mar2025 00:17:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Crester_Craft left the game
+[02Mar2025 00:18:43.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Mar2025 00:18:43.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
